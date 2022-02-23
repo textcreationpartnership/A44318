@@ -1,0 +1,1198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fatall doom, or, The charms of divine love by R.H.</title>
+            <author>R. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 112 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44318</idno>
+            <idno type="STC">Wing H2615</idno>
+            <idno type="STC">ESTC R3487</idno>
+            <idno type="EEBO-CITATION">12185990</idno>
+            <idno type="OCLC">ocm 12185990</idno>
+            <idno type="VID">55789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 107:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fatall doom, or, The charms of divine love by R.H.</title>
+                  <author>R. H.</author>
+                  <author>Hooke, Robert, 1635-1703.</author>
+               </titleStmt>
+               <extent>[20], 3-203 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication to George Berkley signed: Your Honours most humble chaplain R.H.</note>
+                  <note>Attribution to Robert Hooke in BM and Wing is doubtful, as he was only twenty at the time, and not a clergyman.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55789:1"/>
+            <pb facs="tcp:55789:1"/>
+            <p>The Fatall DOOM; OR, The Charms OF DIVINE LOVE.</p>
+            <p>By R. H.</p>
+            <q>
+               <l>Totus figatur in Corde</l>
+               <l>Qui pro te fixus in Cruce.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Williams,</hi> at the Crown in S. <hi>Paul's</hi> Church-yard, 1655.</p>
+            <pb facs="tcp:55789:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55789:2"/>
+            <head>TO THE RIGHT vertuous and ho<g ref="char:EOLhyphen"/>nourable, <hi>GEORGE BERKLEY,</hi> Eſquire.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F there be any thing new under the Sun, it is that Bird of Paradiſe, that is ſti<g ref="char:EOLhyphen"/>led
+<pb facs="tcp:55789:3"/>the <hi>New Creature.</hi> This is ſuch a No<g ref="char:EOLhyphen"/>veltie of ſuch an hetero<g ref="char:EOLhyphen"/>geneous nature from the old world, that it gazeth on him as a piteous Changeling, and ex<g ref="char:EOLhyphen"/>plodes him as an ill-favoured Monſter. Alas (ſayes <hi>Marcus Antoninus)</hi> thoſe Gra<g ref="char:EOLhyphen"/>ces which the Deitie ſent down as ſo many Pillars to ſtay up Hu<g ref="char:EOLhyphen"/>mane
+<pb facs="tcp:55789:3"/>Societies,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Faith</hi> and <hi>Modeſtie, Juſtice</hi> and <hi>Veritie,</hi> they found ſuch cold entertain<g ref="char:EOLhyphen"/>ment here below, that they are fled backe to Heaven. And for all that I perceive, it is as great a Raritie to meet with one that ownes them, as it is with a <hi>white Moore</hi> or <hi>black Swan:</hi> that if any were of the humour of that
+<pb facs="tcp:55789:4"/>old Philoſopher,<note place="margin">(Pittacus)</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to let flie an arrow at everie viti<g ref="char:EOLhyphen"/>ous man he ſees, a thou<g ref="char:EOLhyphen"/>ſand to one that he miſ<g ref="char:EOLhyphen"/>ſes, ſhoot where he will. <hi>They are all gone out of the way,</hi>
+               <note place="margin">(Pſalm) 14.4.</note> 
+               <hi>there is none that doth good,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>no not one</hi> (ſayes the Prophet.) No (ſayes <hi>Plutarch</hi>) there is not one that is ſober to Vertue, but they
+<pb facs="tcp:55789:4"/>are all runne not onely ſhamefully out of the way, but unhappily out of their wits; ſuch a <hi>Vertigo</hi> there is in their brain, and turn<g ref="char:EOLhyphen"/>ing round, by the ſpi<g ref="char:EOLhyphen"/>rit of Giddineſs. Nay, and (ſaith <hi>Julian</hi>) they are all inflamed to an height of Fren<g ref="char:EOLhyphen"/>zie,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. (Iuli<g ref="char:EOLhyphen"/>an. Imp.)</note> by the Furies of Hell; nay, and many (ſaith <hi>Iſidor</hi>) by the
+<pb facs="tcp:55789:5"/>furie of their owne Luſts: ſo that they dare do that which the Devils themſelves dare not,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Iſid. Pe<g ref="char:EOLhyphen"/>luſ.)</note> ſuch acts that the very tranſcendencies of their horribleneſſe ma<g ref="char:EOLhyphen"/>keth them incredi<g ref="char:EOLhyphen"/>ble to Poſteritie. And yet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> peradventure (ſayes <hi>Iulian</hi>) it may be no Paradox,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Iulian.)</note> that amongſt myriads of bad ones there may be found
+<pb facs="tcp:55789:5"/>one good; and he giveth two eminent inſtances; <hi>Deioces</hi> among the <hi>Medes,</hi> and <hi>Anachar<g ref="char:EOLhyphen"/>ſis</hi> amongst the <hi>Scy<g ref="char:EOLhyphen"/>thians.</hi>
+            </p>
+            <p>Sir, I am overjoyed that I can ſee one Star ſhining amidst this our ſo crooked and umbra<g ref="char:EOLhyphen"/>tile Generation,<note place="margin">Quidam adeo um<g ref="char:EOLhyphen"/>bratiles ſunt, ut quicquid in turbido eſt, in luce eſſe putent. <hi>(Seneca.)</hi>
+               </note> that knoweth not how to di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt oblique and ſtraight, betwixt
+<pb facs="tcp:55789:6"/>Light and Darkneſſe, nay, that extinguiſh<g ref="char:EOLhyphen"/>eth the one by the o<g ref="char:EOLhyphen"/>ther, that breatheth forth nothing but Spears and Swords,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Sapient. 2.11.) <hi>Ius eſt in ar<g ref="char:EOLhyphen"/>mis</hi> (Sen.)</note> and mea<g ref="char:EOLhyphen"/>ſures all rights by the length of their Weapons. I am glad I have met with one of an heroick ſpirit, that dares love Christ, when nothing ſooner expoſeth to ha<g ref="char:EOLhyphen"/>tred; nay, when Chriſt
+<pb facs="tcp:55789:6"/>himſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>very God, (1 Iohn 5.20. (bleſſed God for ever (Rom. 9.5.)</hi> is expoſed, (and that not by <hi>lewes,</hi> but by Chriſti<g ref="char:EOLhyphen"/>ans, nay,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> by multitudes of them, as blaſphemous <hi>Arrius</hi> boasted) to that curſed croaking of that Atheiſticall Toad, which Hell it ſelf durſt not belch forth,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; (Theodo retus.)</note> and which I cannot expreſs with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:55789:7"/>horrour, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that grand Impoſtor hung upon a Gibbet.</hi> For do not they all in effect ſpeake the ſame, who deny his God-head? Nay, yet, which is worſe,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Epi<g ref="char:EOLhyphen"/>phan.)</note> if <hi>Epiphani<g ref="char:EOLhyphen"/>us</hi> be not miſtaken, ſcarce one of the many thouſands who with their mouths deifie him,<note place="margin">(Tit. 1.16.)</note> but by their abominable
+<pb facs="tcp:55789:7"/>actions defie and denie him.<note place="margin">(Rom. 1.21.)</note>
+            </p>
+            <p>Sir, I am glad I have met with one, in whoſe heart the love of him is fixt, who was crucified for us; one noble Eagle that can <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, gaze upon that glorious Sun with an irretort eye, when others are either like Moales ſtarke<g ref="char:EOLhyphen"/>blinde,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Clem. Alex.)</note> or like Owles
+<pb facs="tcp:55789:8"/>pur-blinde,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (2 Per. 1.9.)</note> and cannot ſee at any diſtance; one that looks upon all other things as Dung in com<g ref="char:EOLhyphen"/>pariſon of the ſuperex<g ref="char:EOLhyphen"/>cellent Excellencie of <hi>Ieſus Chriſt;</hi> one of whom I could ſay more, but that I ſhould expoſe, what? your <hi>Honour</hi> to the tongue of Envie? or my Reputation to a jealouſie of Adulation? nay, but rather your
+<pb facs="tcp:55789:8"/>Modeſtie to violence, which uſeth to bluſh at its owne Perfections; otherwiſe I ſhould not much fear the imputa<g ref="char:EOLhyphen"/>tion of Flattery, where all Hyperboler are but Diminutions.</p>
+            <p>When once a ſoul is pregnant by the Deitie (ſaith <hi>Plotinus</hi>) oh what lovely off-ſprings will it produce?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Plo<g ref="char:EOLhyphen"/>tin.)</note> it bringeth forth Beau<g ref="char:EOLhyphen"/>tie,
+<pb facs="tcp:55789:9"/>it bringeth forth Righteouſneſs; that is, (if I may interpret as a Divine) Love to God, and Charitie to all that bear his Im<g ref="char:EOLhyphen"/>preſs: for ſo I finde in the ſacred Dialect, Love to God, <note place="margin">(2 Cor. 3.18.)</note> ſuch a Beautie as transformes into the Image of him who is the <hi>Brightneſs of Glorie;</hi>
+               <note place="margin">(1 Iohn 4.16.)</note> which there<g ref="char:EOLhyphen"/>fore muſt needs ennoble
+<pb facs="tcp:55789:9"/>the Soul, becauſe it is of ſuch a near cogna<g ref="char:EOLhyphen"/>tion with God; and Charitie to Man is in expreſs tearmes ſtiled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Righteouſneſs, <hi>(Pſalme 112.9.) He that giveth to the poor his righteouſneſs re<g ref="char:EOLhyphen"/>maineth for ever.</hi> And that this is the very re<g ref="char:EOLhyphen"/>ſemblance of that Hea<g ref="char:EOLhyphen"/>venly Father, not onely Chriſt hath ſaid it,<note place="margin">(Matth. 5.44.)</note> but
+<pb facs="tcp:55789:10"/>an Heathen Empe<g ref="char:EOLhyphen"/>rour.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Marcus <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tonin.)</note>
+            </p>
+            <p>Which are the rea<g ref="char:EOLhyphen"/>ſons that heightned me to this boldneſs, to preſent this charme of Divine Love to your <hi>Honour.</hi> Firſt, becauſe there is no ſuch lovely Muſick in your eares: which I do more then conjecture, by your candid accep<g ref="char:EOLhyphen"/>tation of a verie incompo ſed ſuſurration thereof,
+<pb facs="tcp:55789:10"/>in the preſence of that <hi>good Knight,</hi>
+               <note place="margin">Sir Ro<g ref="char:EOLhyphen"/>bert Cook</note> for whom I could have died: and Secondly, be<g ref="char:EOLhyphen"/>cauſe I could doe no<g ref="char:EOLhyphen"/>thing leſse by way of gratitude for my many Engagements to that noble Hand of Chari<g ref="char:EOLhyphen"/>tie,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (S. Chryſoſt.)</note> ſo often reached out to me readie to ſink: which, as it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">(Philip. 4.18)</note> a ſacrifice that a<g ref="char:EOLhyphen"/>ſcends in ſuch odorife<g ref="char:EOLhyphen"/>rous
+<pb facs="tcp:55789:11"/>flames, that God is delighted therewith; ſo (I doubt not) will deſcend in abundance of bleſsings upon you, and your vertu<g ref="char:EOLhyphen"/>ous <hi>Lady,</hi> and noble <hi>Relations</hi> here, &amp; ſhall be crowned with a Dia<g ref="char:EOLhyphen"/>deme of Glory hereafter: which ſhall be the hearty Prayer of,</p>
+            <closer>
+               <signed>
+                  <hi>Sir, Your Honours moſt humble Chaplain</hi> R. H.</signed>
+            </closer>
+            <pb facs="tcp:55789:11"/>
+            <pb facs="tcp:55789:12"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:55789:12"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 CORINTH. 16.22.</hi>
+                  </bibl>
+                  <p>If any man love not the Lord <hi>JESUS CHRIST,</hi> let him be Anathema, Maran-atha.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F any man love not the Lord <hi>Jeſus Chriſt:</hi> A ſtrange and dreadfull <hi>Si-quis</hi> this; but I hope, <hi>non eſt inventus,</hi> there is no ſuch Monſter amongſt he ſons of men. Any man
+<pb n="4" facs="tcp:55789:13"/>not love that bleſſed God who made him man; nay, who himſelf condeſcend<g ref="char:EOLhyphen"/>ed to be made Man,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(Joan. Me<g ref="char:EOLhyphen"/>tropol.)</hi>
+               </note> that man might aſcend into the participation of his divine nature? Bleſſed A<g ref="char:EOLhyphen"/>poſtle, can any man be ſo wretchedly curſed, as not to love him who was made a curſe that man might be crowned with blesſings? So it ſeems by the man<g ref="char:EOLhyphen"/>ner of his expreſsion; nay &amp; ſo its too too evident by the generall demeanour of thouſands that glory in the title of Chriſtians. S<hi rend="sup">t</hi>. <hi>Mar<g ref="char:EOLhyphen"/>tin</hi>
+               <pb n="5" facs="tcp:55789:13"/>walking in the fields by himſelf, of a ſudden fell into lowd cryes and weeping, and being asked (by one that paſſed by and over-heard him) the cauſe of that his lamentation, <hi>I weep</hi> (ſaith he) <hi>to think that the Lord Jeſus ſhould do ſo much for us men, &amp; yet not one man of a thouſand ſo much as mindes him, or thinks of him.</hi> Thinks of him? nay indeed, where is there amongſt us one of a thou<g ref="char:EOLhyphen"/>ſand, that does not either by baſe apoſtaſy and ſchiſ<g ref="char:EOLhyphen"/>maticall diſſention, or by
+<pb n="6" facs="tcp:55789:14"/>fraud and rapine, or per jury and other ſcandalous actions diſhonour him, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, expoſe him to the obloquies of Jews &amp; Heathens? <hi>Ecce quinam ſunt qui ſe Chriſtianos vocant:</hi> See what manner of people they are who term them<g ref="char:EOLhyphen"/>ſelves Chriſtians, (as <hi>La<g ref="char:EOLhyphen"/>ctantius</hi> brings in the Hea<g ref="char:EOLhyphen"/>thens upbraiding them in his time.<note place="margin">Si Sancta Christus docuiſſet, Sancta à Chriſtianis fierent. Qualis Secta, tales Sectatores. Quomodo bonus Magiſter, cujus tam pravos videmus Diſcipulos?</note>) Sure, had their Chriſt taught them better, they would be better then they are: how can we
+<pb n="7" facs="tcp:55789:14"/>think the Maſter to be good, whoſe Diſciples we ſee to be ſo bad? He that looks upon the lives of Chriſtians amongſt us at this day, muſt conclude as Doctor <hi>Whitaker, Aut hoc non eſt Evangelium, aut nos non ſumus Evangelici;</hi> Either there is no ſuch Chriſt as the Scriptures ſpeak of, or elſe thoſe that profeſſe Chriſt are not ſo good Chriſtians as be<g ref="char:EOLhyphen"/>comes them. Never Age pretended more to the knowledge of Jeſus Chriſt, and never Age ex<g ref="char:EOLhyphen"/>preſt
+<pb n="8" facs="tcp:55789:15"/>leſſe love to him, if Obedience be the argu<g ref="char:EOLhyphen"/>ment of it, as himſelf im<g ref="char:EOLhyphen"/>plyes. Never more light, and never leſſe heat. It's the epidemicall malady of this our Enthuſiaſticall Age, that the Spirits are diſpenſt not into the hand and feet, but they fly up into the tongue and brain; and people conceit, as the old <hi>Gnoſticks,</hi> that there is no other ingredient to ſal<g ref="char:EOLhyphen"/>vation, then refined ſpe<g ref="char:EOLhyphen"/>culations of Evangelicall myſteries: which is a damnable Cheat that the
+<pb n="9" facs="tcp:55789:15"/>Devil hath put upon them, and which (if I were at leaſure) might be eaſily convinced of moſt groſſe abſurdities from the very heathen Philoſophers.</p>
+            <p n="1">1. <hi>Gratius eſt Deoamari quam proſpici,</hi> the Deity takes a greater complacen<g ref="char:EOLhyphen"/>cy to be loved by us, then to be known, why ſo for in knowing God we give nothing to him; but in loving him we give him <hi>quicquid &amp; ſumus &amp; posſi<g ref="char:EOLhyphen"/>demus,</hi> all that we are, and all that we have.</p>
+            <p n="2">2. It is posſible that we
+<pb n="10" facs="tcp:55789:16"/>may know God, and yet be never the better, nay the worſe;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (1 Corinth. 8; 1.)</note> for many times knowledge puffeth up with pride. There is none more knowing then the Spirit of pride, who is therefore called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>qua<g ref="char:EOLhyphen"/>ſi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But love him we cannot, but muſt be the better. why ſo? becauſe (ſayes <hi>Plato</hi>) the ſoul by the force of love, not of know<g ref="char:EOLhyphen"/>ledge, is made divine; as wood by the heat, not the light of fire, is transformed into fire. And then,</p>
+            <p n="3">3. There is none but
+<pb n="11" facs="tcp:55789:16"/>will graunt that <hi>pejus est Deum odiſſe quam ignorare,</hi> it's infinitely worſe to hate God then to be ignorant of God: then it muſt fol<g ref="char:EOLhyphen"/>low by undenyable con<g ref="char:EOLhyphen"/>ſequence, that it's by ma<g ref="char:EOLhyphen"/>ny degrees better to love God then to know him. And if you ſcruple at theſe blinde mens reaſons, I will tell you what my divine Apoſtle ſays in this caſe (1 <hi>Cor.</hi> 13, 1, 2, 3.) <hi>Though I ſpeak with the tongues of men and of Angels, and have not charity, I am become as ſound<g ref="char:EOLhyphen"/>ing braſse, or a tinkling Cym<g ref="char:EOLhyphen"/>ball:
+<pb n="12" facs="tcp:55789:17"/>And though</hi> I <hi>have the gift of propheſy, and underſtand all mysteries and all knowledge; and though</hi> I <hi>have all faith, ſo that</hi> I <hi>could remove mountains, and have not charity, I am nothing.</hi> And then what think you of that ſaying of S<hi rend="sup">t</hi>. <hi>James,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am 2.19.</note> Thou believeſt that there is one God, thou doſt well; and ſo do the devils themſelves: nay, they go a degree fur<g ref="char:EOLhyphen"/>ther; the devils believe and tremble. It's a plain caſe (ſayes <hi>Cuſanus</hi>) <hi>diabolica eſt fides, credere &amp; non amare;</hi>
+               <pb n="13" facs="tcp:55789:17"/>that is no better then a de<g ref="char:EOLhyphen"/>viliſh faith, that believes only, and does not alſo love. <hi>Lucere novit Lucifer iſte, ardere non novit:</hi> that <hi>Lucifer</hi> knowes excellently what the light of know<g ref="char:EOLhyphen"/>ledge is, but not what the flame of Love, &amp; therefore is ſaid to have his chair in the North.<note place="margin">ideoque cathedram ponit in A<g ref="char:EOLhyphen"/>quilone <hi>(Petrus Bleſenſis,)</hi>
+               </note> And for all that I perceive, it's generally our caſe in theſe Northern parts; if not, I could wiſh ſome would do me the favour to ſhew me ſuch an one: as <hi>Arrianus</hi> ſaid to the <hi>Stoicks</hi> of his time; You
+<pb n="14" facs="tcp:55789:18"/>talk much, and glory in the profeſsion of <hi>Stoiciſm,</hi> but I beſeech you do me the courteſie to ſhew me one that is a true <hi>Stoick</hi> in<g ref="char:EOLhyphen"/>deed; ſhew me one that ſmiles upon the rack, that can look upon the grim viſage of death without the leaſt perturbation of ſpirit; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gratifie my old eys with ſuch a lovely ſpe<g ref="char:EOLhyphen"/>ctacle as I never yet could behold. So ſhal I ſay to you <hi>(Chriſtians)</hi> You talk much of Chriſt, and pretend
+<pb n="15" facs="tcp:55789:18"/>much to the love of Chriſt, and it were pitty of your life, if you ſhould not love Chriſt; but I pray you bleſs my eyes with the ſight of any one that loves Chriſt indeed; ſhew me one that is one ſpirit with Chriſt,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Epicte<g ref="char:EOLhyphen"/>tus.)</note> that loves thoſe things that Chriſt loves, &amp; hates thoſe things that Chriſt hateth; ſhew me one that dreſſeth himſelf at that ſpotleſſe Glaſſe of beauty, that puri<g ref="char:EOLhyphen"/>fieth himſelf even as he is pure, that draweth all the lines of his life according to that glorious Sampler of
+<pb n="16" facs="tcp:55789:19"/>vertue and holineſſe. Shew me but one ſuch Chriſtian as <hi>Clemens Alexandrinus</hi> de<g ref="char:EOLhyphen"/>ſcribes his <hi>Gnoſtick,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who lives a pure holy life merely out of pure love to God, who will not vio<g ref="char:EOLhyphen"/>late the leaſt divine law <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, though he might have the priviledge of impunity, nay <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, though he might upo<g ref="char:cmbAbbrStroke">̄</g> that conditio<g ref="char:cmbAbbrStroke">̄</g> enjoy the joys of the bleſſed above. Alas! where ſhall we meet with ſuch a lovely object? But,
+<pb n="17" facs="tcp:55789:19"/>if it be not ſo with you, if you do not imitate Chriſt; for ſhame pretend not to the love of Chriſt: if you love him not, prete<g ref="char:cmbAbbrStroke">̄</g>d not to the life, no, nor name of Chriſtians. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, For ſhame (ſays <hi>Epicte<g ref="char:EOLhyphen"/>tus</hi> to his <hi>Stoicks</hi>) either live as <hi>Stoicks,</hi> or leave off the name of <hi>Stoicks.</hi> So ſhal I ſay to you (Chriſtians) either love Chriſt as becomes Chriſtia<g ref="char:cmbAbbrStroke">̄</g>s, or els take not up<g ref="char:EOLhyphen"/>on you the glorious title of Chriſtians. Chriſtians, and yet not love Chriſt; what
+<pb n="18" facs="tcp:55789:20"/>a prodigy were that!<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Who can with patience ſee Apes in the habit of Nobles? (ſayes <hi>Lucianus.</hi>) Who can brook with the impuden<g ref="char:EOLhyphen"/>cy of ſuch Hypocriſie? To ſee (ſayes <hi>Julianus</hi> the Em<g ref="char:EOLhyphen"/>perour) people pretend to be adorers of <hi>Jupiter,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Hoſ<g ref="char:EOLhyphen"/>pitall <hi>Jupiter,</hi> and yet them<g ref="char:EOLhyphen"/>ſelves in their actions more inhumane and bar<g ref="char:EOLhyphen"/>barous then the <hi>Scythians:</hi> to ſee them flock into <hi>Ju<g ref="char:EOLhyphen"/>piter's</hi> Temple,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and to ſacri<g ref="char:EOLhyphen"/>fice to him, and think <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they have done him ſuch ho<g ref="char:EOLhyphen"/>nour
+<pb n="19" facs="tcp:55789:20"/>and ſervice as paſ<g ref="char:EOLhyphen"/>ſeth; when in the <hi>inte<g ref="char:EOLhyphen"/>rim</hi> they grumble to part with one Farthing to relieve their poor neighbours want: what inconſiſtencies and incon<g ref="char:EOLhyphen"/>gruities are theſe? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when I look upon them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I cannot but be extremely amazed. And the truth is (ſayes <hi>Pla<g ref="char:EOLhyphen"/>to</hi>) there cannot be any more extreme Injuſtice, then that any man ſhould ſeem to be Juſt, and Pious,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plato.)</note> when he is not ſo in<g ref="char:EOLhyphen"/>deed.</p>
+            <pb n="20" facs="tcp:55789:21"/>
+            <p>Reader, I know not how the caſe ſtands with thee: but if thou doſt not love Chriſt ſincerely, I ſhall wiſh thee to forbear the name of a Chriſtian, either to lay claim to it, or any priviledges belonging to it. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſayes <hi>Greg. Nazian<g ref="char:EOLhyphen"/>zen;</hi>) None that loves not Light, but muſt be heir of Darkneſſe. And ſo you ſee here my Apo<g ref="char:EOLhyphen"/>ſtle wiſheth ſuch a black fate to all ſuch, <hi>If any man love not,</hi> &amp;c.</p>
+            <p>For the more clear il<g ref="char:EOLhyphen"/>luſtration
+<pb n="21" facs="tcp:55789:21"/>of which words, I ſhall diſcuſſe theſe two Quaeres.
+<list>
+                  <item>1. What he means by theſe aenigma<g ref="char:EOLhyphen"/>ticall terms, <hi>Anathema, Maran-atha.</hi>
+                  </item>
+                  <item>2. Why he lets fly ſuch Thunder<g ref="char:EOLhyphen"/>bolts againſt that man that does not love the Lord Jeſus Chriſt.</item>
+               </list>
+            </p>
+            <p n="1">1. Let him be <hi>Anathema,</hi> what is that? It is a word that is cloathed with Death, or rather it is <hi>lethalis arundo,</hi> an arrow that is ſteept in the gall of Dragons, that ſtrikes with death where<g ref="char:EOLhyphen"/>ſoever it lights. It is of
+<pb n="22" facs="tcp:55789:22"/>the ſame deadly rankling nature that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of old in the Synagogue, which (ſay the Jewiſh Doctors) was the ſecond <hi>ſpecies</hi> of Ex<g ref="char:EOLhyphen"/>communication, and much more dreadfull then the firſt, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(nidui)</hi> ſe<g ref="char:EOLhyphen"/>paration or remotion <hi>ad<g ref="char:EOLhyphen"/>quatuor paſsus,</hi> not ſuffering any man to come within four paces of him that was under that cenſure; which my Apoſtle ex<g ref="char:EOLhyphen"/>preſſeth by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">1 Cor. 5.11.</note> not to entertain ſuch per<g ref="char:EOLhyphen"/>ſons with any civil fami<g ref="char:EOLhyphen"/>liar diſcourſe, that they
+<pb n="23" facs="tcp:55789:22"/>might be aſhamed: but this of <hi>Anathema</hi> is a de<g ref="char:EOLhyphen"/>gree higher, and a more direfull kinde of Ex<g ref="char:EOLhyphen"/>communication amongſt them, and in which, for the greater Solemnity of it, there were Curſes out of the Law of <hi>Moſes,</hi> and dire<g ref="char:EOLhyphen"/>full Execrations added to it. It is a word that expoſeth to all kindes of dreads and deaths: as <hi>Jo<g ref="char:EOLhyphen"/>ſephus</hi> obſerves of thoſe whom the <hi>Eſſeni</hi> (a pure Sect amongſt the <hi>Jewes</hi>) caſt out of their Congre<g ref="char:EOLhyphen"/>gation, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="24" facs="tcp:55789:23"/>being taken in ſome notorious ſin; who<g ref="char:EOLhyphen"/>ſoever was thus caſt out,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> co<g ref="char:cmbAbbrStroke">̄</g>monly he came to ſome fearfull death. And there<g ref="char:EOLhyphen"/>fore the Primitive Church uſed to put on mourning habits, and to wall over them that were to be ex<g ref="char:EOLhyphen"/>communicated, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as over them that were dead (ſayes <hi>Origen:</hi>) for ſo was the Apoſtoli<g ref="char:EOLhyphen"/>call conſtitution (ſayes <hi>Clemens;</hi>) Every one that is irreclamable,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Apoſt. Constit. <hi>2.</hi>)</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> turn out of the Church, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with
+<pb n="25" facs="tcp:55789:23"/>grief and mourning. And ſo my Apoſtle calls it in expreſſe terms <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (1 <hi>Cor.</hi> 5.2.) to lament and mourn: and (2 <hi>Cor.</hi> 12.21.) I <hi>am afraid leaſt when</hi> I <hi>come,</hi> I <hi>ſhall be<g ref="char:EOLhyphen"/>wail many amongst you that have ſinned and have not re<g ref="char:EOLhyphen"/>pented,</hi>
+               <note place="margin">
+                  <hi>Doctor</hi> Hammond.</note> that is (as that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> does interpret it) I ſhall be forced to exerciſe ſeverity among you, to inflict Cenſures on them. So that you ſee its no laugh<g ref="char:EOLhyphen"/>ing matter, as this pro<g ref="char:EOLhyphen"/>phane Age of ours makes it, that ſtands no<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(Lucian)</hi>
+               </note> more in awe of this Apoſto<g ref="char:EOLhyphen"/>licall
+<pb n="26" facs="tcp:55789:24"/>Thunder, then of the ſnuff of a Candle. No? is it no more formi<g ref="char:EOLhyphen"/>dable then ſo? is not Death terrible?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Why, this <hi>Anathema,</hi> whenſoever it ſtrikes, if it be not reverſt by thy repentance, it cuts thee off as a ſacrifice to Vengeance.<note place="margin">Exod. 22.20.</note> He that ſa<g ref="char:EOLhyphen"/>crificeth unto any god, ſave unto any god, ſave unto the Lord, <hi>ut Anathema perditor,</hi> or (as the <hi>Septuagint</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, let him die the death. Nay, it expoſeth thee not only to the Jawes of Death, but alſo of Hell, and that ſpirit of hell that
+<pb n="27" facs="tcp:55789:24"/>rangeth up and down like a roaring Lion ſeek<g ref="char:EOLhyphen"/>ing whom he may de<g ref="char:EOLhyphen"/>vour. Let him be <hi>Anathe<g ref="char:EOLhyphen"/>ma,</hi> let him be ſtript of all protections and bleſsings of all good Angels;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (S. Baſil.)</note> nay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, let him be expoſed not only to all the fiery darts and plagues of the Divine Fury, but to the black paws and fangs of that Infernall Spirit, whoſe ſole imployment it is (ſayes <hi>Macarius</hi>) nay delight and pleaſure (ſayes <hi>Clemens Alexandrinus</hi>) to imbrew his hands in bloud,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Macari<g ref="char:EOLhyphen"/>us Homil.)</note> and to
+<pb n="28" facs="tcp:55789:25"/>plunge all ſouls into the ſame gulf of damnation with himſelf. Let ſuch an one be delivered up to Satan (ſayes my A<g ref="char:EOLhyphen"/>poſtle.<note place="margin">(1 Cor. 5.5.)</note>) If that be not a dreadfull ſentence, that may ſhake every corner of thy heart, what is? An Ex<g ref="char:EOLhyphen"/>communicat perſon? what object more ruthfull and calamitous? The very Heathens pointed at ſuch an one that was excluded their Temples, as <hi>Caput diis inferis ſacrum,</hi> a Wretch gi<g ref="char:EOLhyphen"/>ven up into the proper poſſeſsion of the infernall Fiends; and looked upon
+<pb n="29" facs="tcp:55789:25"/>him as ſuch a malignant, that if any ſhould kill him, he was not obnoxious to judgement, becauſe his ſoul belonged to thoſe ſpi<g ref="char:EOLhyphen"/>rits below. And ſuch (it ſeems by the manner of expreſsion) did curſed <hi>Cain</hi> take himſelf to be: <hi>Now am I caſt out from the preſence of the Lord, and every one that meets me, will mur<g ref="char:EOLhyphen"/>der me.</hi> And ſuch a Wretch is every one that does not love the Lord <hi>Jeſus</hi> Chriſt, in my Apoſtles account, Let him be <hi>Anathema. Nec amet, nec ametur ab ullo;</hi> let all mouths be opened a<g ref="char:EOLhyphen"/>gainſt
+<pb n="30" facs="tcp:55789:26"/>him: the mouth of Heaven and Saints to curſe him; the mouth of Hell and Devils to devour him. So that (you ſee) that word is black and dread<g ref="char:EOLhyphen"/>full enough: and able (I ſhould think) to fright the ſtouteſt heart of them all.</p>
+            <p n="2">2. But what is that other, <hi>Maran-atha?</hi> You would little think by the interpretation thereof there ſhould be ſo much Hor<g ref="char:EOLhyphen"/>rour in it, as there is. It is a word compounded of the <hi>Syriack</hi> and <hi>Hebrew; Maran</hi> ſignifies the Lord, &amp; <hi>Atha</hi>
+               <pb n="31" facs="tcp:55789:26"/>ſignifies <hi>venit,</hi> is come, or, is coming: put them both together, The Lord is come, or The Lord is coming. Inſtruct me Oracles, what is the mea<g ref="char:EOLhyphen"/>ning of this? Some will have it to be a tacit rou<g ref="char:EOLhyphen"/>zing of his <hi>Corinthians</hi> out of their ſupine lethargy &amp; prodigious forgetful<g ref="char:EOLhyphen"/>neſſe of their duty to their Lord and Maſter: An al<g ref="char:EOLhyphen"/>luſion to Scholars in the abſence of their Maſter playing the wantons; of a ſudden one of them ſpy<g ref="char:EOLhyphen"/>ing the maſter coming, gives the reſt warning of
+<pb n="32" facs="tcp:55789:27"/>it, To your books, Scho<g ref="char:EOLhyphen"/>lars, the Maſter is coming: ſo the Apoſtle here, To your leſſon of Love, <hi>Co<g ref="char:EOLhyphen"/>rinthians, Maran-atha,</hi> The Lord is coming. Others will have it to be a pa<g ref="char:EOLhyphen"/>theticall adjuring of them by the loving coming of the Lord, to reciprocate love to him again, Others will have it to be an A<g ref="char:EOLhyphen"/>poſtolicall exprobration: How? not love the Lord <hi>Jeſus</hi> Chriſt?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(S. Chryſoſt.)</hi> Dominus venit ſalutis; iſte Dominum vementem non amat, adeo perfidus &amp; ingra<g ref="char:EOLhyphen"/>tus? <hi>(Pet. Marr.)</hi>
+               </note> Why, this Lord came down from heaven out of mere love
+<pb n="33" facs="tcp:55789:27"/>to ſave him, and yet is he ſuch a monſter of ingra<g ref="char:EOLhyphen"/>titude as not to love him? Fy upon him; let a curſe? yea and let ſhame light upon him. Which (I confeſſe) I do rather em<g ref="char:EOLhyphen"/>brace then any of the for<g ref="char:EOLhyphen"/>mer interpretations: yet there is another, which I ſhall rather commend un<g ref="char:EOLhyphen"/>to you then this alſo; which ſayes that the Apoſtle al<g ref="char:EOLhyphen"/>ludes to the originall form of Excommunication uſed in the Church of the <hi>Jewes,</hi> which they called <hi>Sham-Atha,</hi> and was the higheſt degree, and with which
+<pb n="34" facs="tcp:55789:28"/>(ſayes our learned Doctor) this <hi>Maran-atha</hi> is coinci<g ref="char:EOLhyphen"/>dental:<note place="margin">
+                  <hi>Dr.</hi> Ham<g ref="char:EOLhyphen"/>mond.</note> For <hi>Sham,</hi> that is no other then <hi>Shem,</hi> our bleſ<g ref="char:EOLhyphen"/>ſed Lord, whoſe name is Wonderfull,<note place="margin">Eſay 9.6.</note> The Angel of the Covenant, in the midſt of whom is my name (<hi>Exod,</hi> 23.21.) and <hi>Atha,</hi> as here, is <hi>coming.</hi> And ſo S<hi rend="sup">t</hi>. <hi>Jude</hi> expreſly tells, that it was the very Thun<g ref="char:EOLhyphen"/>der-bolt that old <hi>Enoch</hi> ſhot at ſuch like prodi<g ref="char:EOLhyphen"/>gious Monſters in his time,<note place="margin">Jude v. 14.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Lord is coming with his holy myriads to execute judgement upon all that are ungodly, and to con<g ref="char:EOLhyphen"/>vince
+<pb n="35" facs="tcp:55789:28"/>them of all their ungodly deeds and words.</hi> Nay, the word runs' in the <hi>praeteritum tempus,</hi> as this of my Apo<g ref="char:EOLhyphen"/>ſtle does; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſayes holy <hi>Enoch) Mara<g ref="char:cmbAbbrStroke">̄</g>-atha</hi> (ſayes <hi>S. Paul)</hi> the Lord is come: whereby is implyed the Certainty of his glorious coming to the confuſion of all ſuch graceleſs wretches, ſo ſure as if he were come already.</p>
+            <p>So you ſee the in<g ref="char:EOLhyphen"/>terpretations of theſe Rid<g ref="char:EOLhyphen"/>dles clear, as if they were wrote with the Sunne-beams.</p>
+            <p>And now let the A<g ref="char:EOLhyphen"/>theiſticall
+<pb n="36" facs="tcp:55789:29"/>ſcoffer at the power of the Church take them home with him, and tell me, nay rather himſelf, whether this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> two-edged Sword, may not make deep wounds and gaſhes in that carnall ſoul of his: If any man love not the Lord Jeſus Chriſt, let him be <hi>Anathema,</hi> cur<g ref="char:EOLhyphen"/>ſed from the preſence of the Lord, let him not be thought worthy to come where the Lord hath to do; <hi>Maran-atha,</hi> a curſed wretch of that deplored hope, that the Church knows not what to do
+<pb n="37" facs="tcp:55789:29"/>farther with him, but is enforced to bind him over to anſwer that high indig<g ref="char:EOLhyphen"/>nity at that great generall day of Aſsizes, and to ex<g ref="char:EOLhyphen"/>poſe him to the dreadfull ſentence of that Lord him<g ref="char:EOLhyphen"/>ſelf whom he hath ſo contemned, and incenſed, who ſhall be Judge, and who, he may be ſure, will pay him home; nay and that ſuddenly too, <hi>Maran-atha,</hi> the Lord is coming to render vengeance and execute Judgement upon all ſuch ungodly wretches as doe not love him. Which is the firſt <hi>Quaere,</hi>
+               <pb n="38" facs="tcp:55789:30"/>what is the meaning of thoſe abſtruſe, obſcure words, <hi>Anathema, Maran-atha.</hi>
+            </p>
+            <p>Yet, before I can diſ<g ref="char:EOLhyphen"/>miſſe them, I ſhall be ſeech the to fixe thy eye upon this glaſſe, and therein take an exact view of the ill-fa<g ref="char:EOLhyphen"/>vouredneſſe and uglineſſe of that man that does not love the Lord <hi>Jeſus</hi> Chriſt Thou ſeeſt the Apoſtle uſeth two words of di<g ref="char:EOLhyphen"/>verſe languages to expreſſe his horrid and wofull condition, Let him be <hi>A<g ref="char:EOLhyphen"/>nathema, Maran-atha;</hi> as if he would have it ingraven on
+<pb n="39" facs="tcp:55789:30"/>his fore-head in ſuch cha<g ref="char:EOLhyphen"/>racters, that all Nati<g ref="char:EOLhyphen"/>ons, both <hi>Jewes</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> might read it run<g ref="char:EOLhyphen"/>ning. The Obſervation is obvious, and evi<g ref="char:EOLhyphen"/>dent, yet ſuch, that (I ſhould think) it ſhould make the man to trem<g ref="char:EOLhyphen"/>ble.</p>
+            <p>There is no ſuch curſed creature under the Sun, as that man that does not love the Lord <hi>Jeſus</hi> Chriſt.</p>
+            <p>Rather then he ſhall eſcape, my Apoſtle here diſciplines both Jew and Gentile to thunder out cur<g ref="char:EOLhyphen"/>ſes
+<pb n="40" facs="tcp:55789:31"/>againſt him in their own dialect. This is ſuch a Truth, that the Devil him<g ref="char:EOLhyphen"/>ſelf, whoſe very propriety is lying,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Pſellus.)</note> confeſt it, when by an holy man exorcized and conjured out of a poor man whom he had poſ<g ref="char:EOLhyphen"/>ſeſt; for being demanded his name, he anſwered, I am that <hi>curſed creature</hi> who am deprived of Love. I hope then no Chriſtian will deny it; and if there be any ſuch, I doubt not but to con<g ref="char:EOLhyphen"/>vince them ere I have done.</p>
+            <p>If any man love not the
+<pb n="41" facs="tcp:55789:31"/>Lord <hi>Ieſus</hi> Chriſt, he muſt needs be accurſed; Firſt, becauſe he cuts himſelf off from him that is the Foun<g ref="char:EOLhyphen"/>tain of all bleſsings here for the preſent; and ſe<g ref="char:EOLhyphen"/>condly, becauſe Chriſt will cut him off from all enjoyments of him<g ref="char:EOLhyphen"/>ſelf hereafter in the life of Glory.</p>
+            <p n="1">1. Accurſed he muſt be, becauſe he flies off from him that is bleſſed God for ever;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Plotinus.)</note> 
+               <hi>à quo procul abeſſe eſt eſse minus,</hi> from whom the more that any man is at a diſtance, the leſſe he is (a blinde man could ſay.)
+<pb n="42" facs="tcp:55789:32"/>And he that does not love Chriſt, muſt needs be at a great, nay an infinite di<g ref="char:EOLhyphen"/>ſtance from him, becauſe he hates him. Hate him? <hi>Horreſco referens,</hi> I cannot but tremble at the very expreſsion: it's a very ſad, yet infallible Truth, for ſo himſelf hath ſaid it; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, two Lords you can<g ref="char:EOLhyphen"/>not ſerve,<note place="margin">Matth. 6.24.</note> for you muſt hate the one and love the other. It is a plain caſe (ſayes <hi>Cuſanus</hi>) two loves cannot be equall, eſpecial<g ref="char:EOLhyphen"/>ly where there is no ſubor<g ref="char:EOLhyphen"/>dination, but contrariety of Objects (as in the preſent
+<pb n="43" facs="tcp:55789:32"/>caſe, Chriſt and Mam<g ref="char:EOLhyphen"/>mon) and therefore he that loves the one muſt of ne<g ref="char:EOLhyphen"/>ceſsity hate the other, as being divided from that one which he loves. Does he ſo? does he hate Chriſt? then ſeparated from Chriſt he muſt needs be: for as Love is of an uniting na<g ref="char:EOLhyphen"/>ture, ſo Hatred is of a divi<g ref="char:EOLhyphen"/>ding. Your ſins have di<g ref="char:EOLhyphen"/>vided betwixt me and you (ſaith God, <hi>Eſay</hi> 52.2.) Alas, alas, (ſayes <hi>Gregory Nazianzen</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there is not the leaſt ſin that I hugg in my boſome, but it eſtrangeth
+<pb n="44" facs="tcp:55789:33"/>and divorceth me from my God: eſpecially that damnable <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> hatred of God, this muſt needs eſtrange the ſoul from God, becauſe it is of an heterogeneous nature fro<g ref="char:cmbAbbrStroke">̄</g> him; it is the very aſsimi<g ref="char:EOLhyphen"/>lation of the Devil, who is therefore called <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> becauſe he is an hater of God. Hatred is no other then the participation of the ſatanicall nature, and transforms the ſoul into Satan himſelf, if you'l be<g ref="char:EOLhyphen"/>lieve the Wiſe man;<note place="margin">Ecclus 21.27.</note> 
+               <hi>When the ungodly man curſeth Sa<g ref="char:EOLhyphen"/>tan,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="45" facs="tcp:55789:33"/>
+               <hi>he curſeth his own ſoul:</hi> as if they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but one ſoul; as if there were not only an identity of nature, but of perſons; for it is the Soul of the man,<note place="margin">Animus cuſuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> is eſt quiſque <hi>(Cicero.)</hi>
+               </note> that is the Perſon of the man. And if Satan therefore ac<g ref="char:EOLhyphen"/>knowledge himſelf an ac<g ref="char:EOLhyphen"/>curſed creature, becauſe deprived of this divine love; what think you, muſt not that man be alſo ac<g ref="char:EOLhyphen"/>curſed, who is of ſo near cognation to him, that if he curſe him, he curſeth his own ſoul? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; (ſayes <hi>Gregory Nazianzen.</hi>) What a
+<pb n="46" facs="tcp:55789:34"/>curſed wretch muſt that man be that is ſeparated from the pure fountain of all bleſsings; who is ha<g ref="char:EOLhyphen"/>ted by that God who is Love it ſelf;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Ajax.)</note> nay, whoſe very Bleſsings are curſed by the God of Bleſsings! (<hi>Malachy</hi> 2.2.) What a cur<g ref="char:EOLhyphen"/>ſed wretch, that neither can nor dares pray to heaven for a bleſsing; nay, whoſe very prayers are ſuch an Abomination to the Lord, that they pull down Cur<g ref="char:EOLhyphen"/>ſes in ſtead of Bleſsings! As the Philoſopher ſaid to the debauch't Marri<g ref="char:EOLhyphen"/>ners, praying in a great
+<pb n="47" facs="tcp:55789:34"/>ſtorm; Oh Wretches,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> hold your peace, leſt we all be caſt away, if the Gods per<g ref="char:EOLhyphen"/>ceive you to be ſailing here. What a curſed wretch, whom all the Creatures purſue, and riſe up in arms to his ruine and confuſi<g ref="char:EOLhyphen"/>on! <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he armes the whole crea<g ref="char:EOLhyphen"/>tion,<note place="margin">(Wiſd. 5.17.)</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for the revenge of his enemies; as <hi>Jonah</hi> will tell you to his coſt. God is pleaſed to ſend him to <hi>Nineve,</hi> and he forſooth, in a pettiſh humour, is hoyſing up his ſailes for <hi>Tarſus;</hi> and ſee what comes of it: The
+<pb n="48" facs="tcp:55789:35"/>Windes and ſtorms riſe up in a fury, and the Seas ſwell with rage againſt him; the ſhip, though of that bulk that it could carry any thing elſe,<note place="margin">Omnem rem vehere potest na<g ref="char:EOLhyphen"/>vis praeter fugitivum.</note> yet cannot the fugitive Pro<g ref="char:EOLhyphen"/>phet, but over-board he muſt; and there is a Whale ready to receive him into her wide jawes, and there he is intombed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it were in a living Sepulchre, to let him and all the world ſee, that he that flies from the ever living God, flies to his own death. And howſo ever that jugling ſpirit caſts
+<pb n="49" facs="tcp:55789:35"/>miſts before their eyes, and fools them with a con<g ref="char:EOLhyphen"/>ceit of pleaſantneſs and deligh in the wayes that are fartheſt off from the ſtrictneſs and ſeverity of holineſs; yet (ſayes <hi>Greg. Nazianzen</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is a moſt divine truth, that the waies of wicked men are full of hells:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and I (ſayes <hi>Plato</hi>) if I were a Law-maker, I would impoſe a ſevere pe<g ref="char:EOLhyphen"/>nalty upon that man that ſhould ſay, that there are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome men that are not ſo pious indeed as they
+<pb n="50" facs="tcp:55789:36"/>ſhould be, but they live merrily. Soul, eat, drink and be merry (ſayes the rich Farmer, <hi>Luke</hi> 12.19.) But it was as great a mi<g ref="char:EOLhyphen"/>ſtake of the fool to think that ſuch a ſoul could be merry, as it was that it could eat or drink. Soul, be merry? Fooliſh man, how can ſuch a ſoul be merry, that is ſo taken up with the love &amp; thoughts of earth, that is therefore ſo fain to wander abroad and buſie it ſelf about o<g ref="char:EOLhyphen"/>ther objects,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plutarch)</note> becauſe its afraid to look homeward, and to behold its own
+<pb n="51" facs="tcp:55789:36"/>ugly ſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; how can ſuch a ſoul be merry, or take joy in it ſelf or any thing elſe, that is divided from him who is the pure foun<g ref="char:EOLhyphen"/>tain of joy? Yet that's not the worſt of it neither, but,</p>
+            <p n="2">2. That man that does not love the Lord <hi>Jeſus Chriſt,</hi> muſt needs be in a curſed wofull condition, becauſe he ſhall be eter<g ref="char:EOLhyphen"/>nally ſeparated from his bleſſed and bliſſefull pre<g ref="char:EOLhyphen"/>ſence. And ſo my Apoſtle does aſſure us,<note place="margin">2 Theſſ. 1.7, 8 9.</note> 
+               <hi>The Lord ſhall be revealed from heaven
+<pb n="52" facs="tcp:55789:37"/>with his mighty Angels, and ſhall in flaming fire take ven<g ref="char:EOLhyphen"/>geance on them that obey not the Goſpel of our Lord Jeſus Christ: who ſhall be puniſhed with everlaſting deſtruction from the preſence of the Lord.</hi> No wonder he ſaith, they ſhall be eternally deſtroy<g ref="char:EOLhyphen"/>ed, who ſhall be eternally ſeparated from him who is ſalvation it ſelf. And that it ſhall be ſo, himſelf hath told it before-hand, his very ſentence ſhall run, <hi>Depart from me,</hi>
+               <note place="margin">Matth. 25.41.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ye curſed, into everlaſting fire prepared for the Devil and his Angels.</hi> Into <hi>fire, eternall
+<pb n="53" facs="tcp:55789:37"/>fire?</hi> an heavie ſentence this (ſayes St. <hi>Chryſost.</hi>) yet no<g ref="char:EOLhyphen"/>thing ſo heavie as the for<g ref="char:EOLhyphen"/>mer part: <hi>Depart from me?</hi> this is dreadfull indeed; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there's more horror contained in that word, then in all the fire and brimſtone, and tortures of Hell;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and its that <hi>Poena damni,</hi> that eternal loſs of his bleſſed face, that makes Hell ſo terrible to the Saints. <hi>Depart from me?</hi> Lord (ſayes Saint <hi>Peter</hi>) <hi>whither ſhall we go but unto thee? Thou haſt the words of eternal life,</hi> (John 6.68.)
+<pb n="54" facs="tcp:55789:38"/>Nay, Thou art <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that Word that is eternall life. And what death muſt ſurprize us, if we de<g ref="char:EOLhyphen"/>part from Thee, who art Life it ſelf! What dark<g ref="char:EOLhyphen"/>neſs, if we depart from Thee, who art Light it ſelf! Into what a curſed Hell muſt we be plunged, if we depart from Thee, who art Bleſſedneſs it ſelf? <hi>Depart from me:</hi> no won<g ref="char:EOLhyphen"/>der he adds, <hi>ye curſed.</hi> If ſuch a departure from ſuch a bleſſed preſence be not a curſe, I pray tell me, what is? And ſee how this bleſſed Lord payes them
+<pb n="55" facs="tcp:55789:38"/>home with their coyn: For did not thoſe Wretches that did not love him, firſt bid him depart from them, and cry out, we will not that he ſhould reign over us? would they part with one luſt for his ſake, that parted with heaven for theirs? nay, did they not ſo hate him, that they advanced their baſe luſts into his glorious Throne, and made them their Chriſt?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> For without doubt (ſayes <hi>Macarius</hi>) whatſo<g ref="char:EOLhyphen"/>ever it is that carries away the principall love of any mans heart, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="56" facs="tcp:55789:39"/>that is that mans God. And if that be not a prodigious departure from him, what is? And if ſo, I muſt appeale to themſelves, whether that his diſmiſſive ſentence, <hi>De<g ref="char:EOLhyphen"/>part from me,</hi> be not very proportionable and juſt. Oh what curſe, what hell can be bad enough for that man that dethrones the Lord of Glory: nay, en<g ref="char:EOLhyphen"/>thrones in his ſtead Ava<g ref="char:EOLhyphen"/>rice, Ebriety, Envy, Pride, Luxury, nay the very ſpi<g ref="char:EOLhyphen"/>rit of Darkneſs? And yet to ſee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, how prodigiouſly mad impiety
+<pb n="57" facs="tcp:55789:39"/>makes its Idolaters: there is not one of a thouſand of theſe curſed Wretches, but flatters himſelf with an hope that he ſhall here<g ref="char:EOLhyphen"/>after be eternally bleſſed with the enjoyment of Chriſt in Glory. How? enjoy Chriſt in Glory, and yet ſo ſhamefully to re<g ref="char:EOLhyphen"/>nounce him, as not to love him? its impoſſible: as im<g ref="char:EOLhyphen"/>poſſible as that himſelf ſhould be forſworn. Doſt thou not hear God himſelf ſwear the contrary,<note place="margin">Heb. 3.11.</note> 
+               <hi>I ſware in my wrath,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>if ever they enter into my reſt.</hi> What then? Nay there is
+<pb n="58" facs="tcp:55789:40"/>all: but its ſuch a dread<g ref="char:EOLhyphen"/>full <hi>Apoſiopeſis,</hi> as (I ſhould think) ſhould ſhake eve<g ref="char:EOLhyphen"/>ry vein of thy heart. As it he had ſaid, if ever they come where I have to do, then ſay I am no God, I am perjured.</p>
+            <p>But ſuppoſe there had bin no ſuch oath, I ſhall ask thee, Firſt, with what mo<g ref="char:EOLhyphen"/>deſty; Secondly, with what reaſon couldeſt thou ex<g ref="char:EOLhyphen"/>pect to come into the pre<g ref="char:EOLhyphen"/>ſence of that Majeſty? What impudence were it for ſuch a ſoul, as black as hell, to dare to approach near ſuch a reſplendent
+<pb n="59" facs="tcp:55789:40"/>brightnes? As <hi>Mercurius</hi> told <hi>Charon</hi> (in <hi>Lucian</hi>) reque<g ref="char:EOLhyphen"/>ſting him to ſhew him <hi>Iupiters</hi> Palace above, How (ſayes he) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that ſuch a Caitiffe as thou, whoſe converſation hath been altogether with black ſhades and impure ghoſts, ſhouldeſt ſet thy foot in that pure Palace of Light? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, what a diſho<g ref="char:EOLhyphen"/>nour and derogation were that to the place? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, what harmony is there (ſayes my Apoſtle) betwixt Light and Darkneſs? There is ſuch an abſolute contra<g ref="char:EOLhyphen"/>riety and heterogeneouſ<g ref="char:EOLhyphen"/>neſs
+<pb n="60" facs="tcp:55789:41"/>betwixt their natures, that they are incompatible and inconſiſtent (ſayes <hi>Pro<g ref="char:EOLhyphen"/>clus.</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, whatſoever is of another and diſcrepant na<g ref="char:EOLhyphen"/>ture from light, muſt needs ſtand off at a great diſtance from it.<note place="margin">Iohn 1.5.</note> And that <hi>light ſhined in darkneſs</hi> (ſayes St. <hi>Iohn</hi> of Chriſt) <hi>and the dark<g ref="char:EOLhyphen"/>neſs comprehended it not.</hi> In<g ref="char:EOLhyphen"/>deed it were ſtrange if it had (ſayes <hi>Cuſanus,</hi>) <hi>ubi nulla baſis lucis,</hi> where there was not the leaſt baſe or foundation for that light to faſten upon. And ſure, as light cannot compre<g ref="char:EOLhyphen"/>hend
+<pb n="61" facs="tcp:55789:41"/>darkneſs, ſo neither can darkneſs comprehend light. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">1 Cor. 6.9.</note> 
+               <hi>Be not deceived,</hi> (ſayes my Apo<g ref="char:EOLhyphen"/>ſtle) <hi>neither fornicatours, nor idolaters,</hi> &amp;c. <hi>ſhall ever in<g ref="char:EOLhyphen"/>herit the Kingdome of God.</hi> No (ſayes an Heathen) but thoſe that would be immortally happy,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Antisthe<g ref="char:EOLhyphen"/>nes.)</note> they muſt live holily and juſtly.</p>
+            <p>There is no happineſſe of the Soul, but onely in its immediate union with God,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Pro<g ref="char:EOLhyphen"/>clus.)</note> as of the eye with light, (ſayes <hi>Plato;</hi>) no, nor can the ſoul ever be in a capacity of that happy
+<pb n="62" facs="tcp:55789:42"/>union <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ex<g ref="char:EOLhyphen"/>cept it be firſt transformed into the ſame nature with the Deity, (ſayes <hi>Proclus.</hi>) What thinkeſt thou? do not theſe Heathens ſpeak reaſon? may they not put thee to the bluſh, thou wretch, who art ſo unlike to God, that thou hateſt him who is Love it ſelf, and all that is lovely; and yet with a ſhameleſs con<g ref="char:EOLhyphen"/>fidence lookeſt to enjoy the beatificall viſion of him in Glory? How? and yet not love him? with what congruitie of reaſon canſt thou think ſo? But,
+<pb n="63" facs="tcp:55789:42"/>ſuppoſe thou ſhouldeſt come to that glorious ſight (which yet that it is im<g ref="char:EOLhyphen"/>poſſible, thoſe blind men have told thee) it would be ſo farre from being any advantage of happineſs unto thee, that it would be as<note n="*" place="margin">Quid pravis men<g ref="char:EOLhyphen"/>tibus im<g ref="char:EOLhyphen"/>precer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> O<g ref="char:EOLhyphen"/>pes, honores ambiant: Etcum falſa bona gra<g ref="char:EOLhyphen"/>vi mole pa<g ref="char:EOLhyphen"/>raverint, tunc vera cognoſcant bona. <hi>(Boetius.)</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Juli<g ref="char:EOLhyphen"/>anus Impe<g ref="char:EOLhyphen"/>rator.)</note> hideous and horrible as hell it ſelf; thou wouldſt ſo burſt with very envy to ſee his infinit Glory, whom thou didſt ſo hate: thy caſe would juſt be the ſame with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the ſoar eye gazing upon the Sun (as <hi>Hierocles</hi> inſtanceth) which is ſo far from being a comfort, that it proves a torment to it.</p>
+            <pb n="64" facs="tcp:55789:43"/>
+            <p>And now, if thou haſt any further maw to it, go and ſpit out all the viru<g ref="char:EOLhyphen"/>lencie thou canſt, againſt the Lord Jeſus, and let thy rapine and malice againſt his poore Members,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and impious confounding of Heaven with Earth, things ſacred with profane, pro<g ref="char:EOLhyphen"/>claim to the world that thou hateſt him: Yet, ſayes <hi>Diphilus,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I muſt tell thee, thou fooleſt thy ſelf, if ever thou thinkeſt to ſneak away without vengeance and confuſion. How is it poſſible? when the very preſence of him,
+<pb n="65" facs="tcp:55789:43"/>who to, the Saints that look upon him with pure eyes is an infinite delecta<g ref="char:EOLhyphen"/>ble light, will be to thee, as the light of the Sun is to thoſe that ſee it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, through a cloud, that is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, neither purely nor clear<g ref="char:EOLhyphen"/>ly; it doth not ſeem <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a pure light,<note place="margin">Julianus Imperat.</note> but fire (its an obſer<g ref="char:EOLhyphen"/>vation of one of thy fel<g ref="char:EOLhyphen"/>low-haters of Chriſt.) &amp; if thou wouldſt know what fire, my Apoſtle tells thee to thy confuſion,<note place="margin">Heb. 12.29.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a conſuming fire. What thinkeſt thou now?
+<pb n="66" facs="tcp:55789:44"/>canſt thou conceit any comfort in the approach to ſuch a preſence? doſt thou not clearly ſee an in<g ref="char:EOLhyphen"/>evitable neceſſitie of thy forlorn curſed condition? Oh (ſayes our bleſſed Sa<g ref="char:EOLhyphen"/>viour) <hi>if the eye,</hi>
+               <note place="margin">Matth. 6.24.</note> which is the ſole light of the body, if that <hi>be darkneſs,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>how great is that dark<g ref="char:EOLhyphen"/>neſs!</hi> The application is eaſie, but withall very dreadfull: If the preſence of Chriſt, who is Life it ſelf, prove Death to thee, oh how great will thy death be! If the preſence of him, who is Happineſs
+<pb n="67" facs="tcp:55789:44"/>it ſelf and Salvation it ſelf, prove a Torment to thee and Damnation, oh how great will thy torment and damnation be! If the pre<g ref="char:EOLhyphen"/>ſence of him, who is the very Joy and Bliſs of Saints and Angels, prove a Curſe to thee, oh how great and inconceivable will thy curſe be! And ſo you have the firſt <hi>quaere,</hi> what is the meaning of thoſe abſtruſe tearms, <hi>Ana<g ref="char:EOLhyphen"/>thema, Maran-atha.</hi>
+            </p>
+            <p n="2">2. Why this Apoſtle comes with theſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, direfull Thun<g ref="char:EOLhyphen"/>derbolts, and lets them fly
+<pb n="68" facs="tcp:55789:45"/>abroad againſt ſuch wret<g ref="char:EOLhyphen"/>ches that anathematize themſelves by that their not loving our bleſſed Je<g ref="char:EOLhyphen"/>ſus? What? (ſaith he to theſe very <hi>Corinthians</hi>) <hi>ſhall I come unto you with a rod,</hi>
+               <note place="margin">1 Cor. 4.21.</note> 
+               <hi>or rather in love, and in the ſpi<g ref="char:EOLhyphen"/>rit of meekneſs?</hi> How ſweetly he recollects him<g ref="char:EOLhyphen"/>ſelf? and the truth is, there is no ſuch loadſtone to at<g ref="char:EOLhyphen"/>tract love as love,<note place="margin">Generoſa eſt mens hominis, &amp; facilius ducitur quam tra<g ref="char:EOLhyphen"/>hitur. <hi>(Seneca.)</hi>
+               </note> and no ſuch ready way to win upon the noble mind of man, as the ſpirit of meek<g ref="char:EOLhyphen"/>neſs: and without doubt there is nothing more ſymbolicall and ſuitable to
+<pb n="69" facs="tcp:55789:45"/>the Evangelicall ſpirit of this Apoſtle. And it may ſeem ſtrange at the firſt view, that ſuch a <hi>Barnabas</hi> (Son of Conſolation) whoſe ſacred lines uſe to flow with grace and peace, ſhould become ſuch a <hi>Boanerges,</hi> and come up<g ref="char:EOLhyphen"/>on them with ſuch ter<g ref="char:EOLhyphen"/>rible Thunders, <hi>Anathe<g ref="char:EOLhyphen"/>ma, Maran-atha.</hi> Yet if thou pleaſe (whoſoever thou art, that art ſo un<g ref="char:EOLhyphen"/>happy as not to love the Lord Jeſus Chriſt) with a little patience to hear what may be ſaid, to ſhame thee out of that helliſh fury,
+<pb n="70" facs="tcp:55789:46"/>and to draw thee, nay, and enforce thee to return to the love of him, I ſhall ap<g ref="char:EOLhyphen"/>peal to thy ſelf as a ratio<g ref="char:EOLhyphen"/>nall creature, whether S. <hi>Paul</hi> could do leſs then powre out theſe Execra<g ref="char:EOLhyphen"/>tions upon thee.</p>
+            <p n="1">1. Do but ſeriouſly con<g ref="char:EOLhyphen"/>ſider the condeſcenſions of Chriſts wonderfull love to thee, and ſee if they will not put thee to the bluſh, if thou anſwer not his love with love. Se<g ref="char:EOLhyphen"/>condly, Take but an exact view of the ſtupendious excellencies that ſhine in him, and tell me if they
+<pb n="71" facs="tcp:55789:46"/>may not draw <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the moſt iron heart: And then, Thirdly, Do but chew a while upon a few principles of rea<g ref="char:EOLhyphen"/>ſon, which I ſhall tell thee, and which thou ſhalt not deny, and then tell thy ſelf whether thou art not enforced to love Chriſt, if thou mean to love any thing.</p>
+            <p n="1">1. The condeſcenſions of Chriſts love to thee are three.</p>
+            <p n="1">1. Its a great condeſcen<g ref="char:EOLhyphen"/>ſion in him, that he will vouchſafe to give thee leave to love him. That
+<pb n="72" facs="tcp:55789:47"/>ſuch a Majeſtie that loves himſelf infinitely, becauſe he is an infinite Lovely<g ref="char:EOLhyphen"/>neſs, nay (with reverence let me ſpeak it) that can<g ref="char:EOLhyphen"/>not do more to himſelf, then love himſelf; that he ſhould vouchſafe the ſame priviledge and honour to Man; well mayeſt thou cry out with the Prophet, Lord, what is man, that thou ſhouldeſt ſo honour him? An high condeſ<g ref="char:EOLhyphen"/>cenſion this, if thou be<g ref="char:EOLhyphen"/>think thy ſelf what man is: the beſt of them all no ſuch lovely piece, as to in<g ref="char:EOLhyphen"/>vite ſuch a Majeſtie to be<g ref="char:EOLhyphen"/>ſpeak
+<pb n="73" facs="tcp:55789:47"/>their love. Look up<g ref="char:EOLhyphen"/>on man with a ſpirituall eye, and there is no ſuch leprous creature; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from the ſoal of the foot to the crown of the head, there is nothing but Boyles and Botches, and putrifying Soares. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: no Toad ſo odious and ugly as man, if he be lookt upon out of Chriſt: look upon him with a na<g ref="char:EOLhyphen"/>turall eye, and there is no ſuch deſpicable and for<g ref="char:EOLhyphen"/>lorn creature. What is Man? Ile tell you what (ſayes <hi>Gregory Nazians.</hi>) he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a pile of
+<pb n="74" facs="tcp:55789:48"/>Duſt and puff of Winde. Nay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (ſayes <hi>Pindarus;</hi>) Man is a dream of a ſhadow. Nay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſayes <hi>Aeſchy<g ref="char:EOLhyphen"/>lus</hi>) a ſhadow of ſmoke. What is Man? Why (ſayes the Prophet) every man is altogether vanity. Nay, it runs in the originall, e<g ref="char:EOLhyphen"/>very man is every vanity: imagine what vanitie you will, Man is that; Man is a mere comprehenſive va<g ref="char:EOLhyphen"/>nitie. Is he ſo?<note place="margin">Pellis mor<g ref="char:EOLhyphen"/>ticina, vas putredinis, fomestineae, cibus ver<g ref="char:EOLhyphen"/>mis. <hi>(Petr. Bleſenſis.)</hi>
+               </note> then what a condeſcent is this, that ſuch a glorious Majeſtie ſhould ſtoop to be loved by ſuch a poor Frog crawl<g ref="char:EOLhyphen"/>ing
+<pb n="75" facs="tcp:55789:48"/>out of the pool (as <hi>S. Bernard</hi> terms him?) And what a ſhame is it if thou doſt not love him, when it is thy greateſt honour that thou maiſt love him.</p>
+            <p>The condeſcenſion will appear greater yet, if thou conſider who is the great<g ref="char:EOLhyphen"/>eſt gainer of the two, if thou ſhouldeſt love him. What (I hope) thou wilt not imagine that Chriſt wiſheth thee to love him, as if he were at any great loſs or diſtreſs if thou love him not, or that he getteth any thing by it if thou love him: No, but
+<pb n="76" facs="tcp:55789:49"/>all the gain and advan<g ref="char:EOLhyphen"/>tage will redound to thy ſelf. To be ſure, its im<g ref="char:EOLhyphen"/>poſſible that any thing ſhould be added to him,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>(Ariſtot.)</hi>
+               </note> for he is Perfection it ſelf, and nothing can be added to Perfection (ſayes the Philoſopher.) He is ſuch a ſuper-in-undant Foun<g ref="char:EOLhyphen"/>tain (ſayes <hi>Philo</hi>) that he breakes out with the ſtreams of his goodneſs upon all things,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(Philo Iud.)</hi>
+               </note> but re<g ref="char:EOLhyphen"/>ceives nothing back again from any, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to better himſelf therewith. Nay, it were no leſs then Blaſphemy to have any
+<pb n="77" facs="tcp:55789:49"/>ſuch conceit of the Deitie (ſayes <hi>Hierocles:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> whoſoever thinks by ho<g ref="char:EOLhyphen"/>noring or loving God, that God is any way the better for it, he doth prodigi<g ref="char:EOLhyphen"/>ouſly forget himſelf, as if he were better then God himſelf. Alas (ſaith the Prophet) <hi>My goodneſs reach<g ref="char:EOLhyphen"/>eth not unto Thee;</hi> and, <hi>My Prayer ſhall return into my own boſome.</hi> Yea, and ſo ſhall all our other ſervices whatſoever: If we love him, all the Advantage ſhall redound to our ſelves; if we do not love him, all the Loſs will be our own,
+<pb n="78" facs="tcp:55789:50"/>all the miſchievous and fa<g ref="char:EOLhyphen"/>tall conſequents will light upon our own pate. And ſo, if thou be not wilfully blinde to thy own Ruine, thou maiſt perceive by that complaint of his (<hi>Ierem.</hi> 2.13.) <hi>They have forſaken me the fountain of living waters, and digged unto themſelves broken ciſterns that will hold no water.</hi> As if he had ſaid, I do not complain as if this their revolt were any damage to my ſelf; for what is a living Spring the worſe, if people will not draw water out of it? but that which troubles
+<pb n="79" facs="tcp:55789:50"/>me, is their own miſcar<g ref="char:EOLhyphen"/>riage and prodigious Fol<g ref="char:EOLhyphen"/>ly; that they ſhould for<g ref="char:EOLhyphen"/>ſake me, that ſo they may periſh with thirſt; that they ſhould fly from me, that ſo they may fall head<g ref="char:EOLhyphen"/>long into the Devills mouth. It is a plain caſe, there is no ſuch policy for a man, if he wiſh well to himſelf, and love himſelf, as to love God. <hi>Amare Deum eſt amare ſeipſum,</hi> (ſaith S. <hi>Auguſtine</hi>) to love God, is to love himſelf: as to hate God, is to hate himſelf. Oh, what a ſweet, and lovely, and loving precept
+<pb n="80" facs="tcp:55789:51"/>is that, Thou ſhalt love the Lord thy God? <hi>Illud jubet quod è re noſtra maxi<g ref="char:EOLhyphen"/>me eſt,</hi> he commands us to do that which makes moſt to our own advan<g ref="char:EOLhyphen"/>tage. It is out of pure love to us, that he would have us to love him: he doth it upon no other deſigne, but that upon our loving of him, he might crown us with bleſſings. So that (I ſhould think) it were ſtrange, if any man ſhould now hum and haw, and be at a Quandary with himſelf, whether he ſhould love Chriſt or no, if he
+<pb n="81" facs="tcp:55789:51"/>doth any thing wiſh well to himſelf. Were not that man a Monſter, who be<g ref="char:EOLhyphen"/>ing thirſtie, ſhould not onely expect that drink ſhould be put into his mouth, but be threatned, nay hired to let it down his throat? And yet ſuch is the love of this our bleſ<g ref="char:EOLhyphen"/>ſed Jeſus. He is pleaſed to preſent the cup of Love to thee; and, rather then fail of thy admittance thereof, he intreats thee to pledge him, nay, will hire thee to it: <hi>Si amabis, dabo coelum;</hi> none ſhall out-vie me, or bid more for it then my
+<pb n="82" facs="tcp:55789:52"/>ſelf; I will give thee hea<g ref="char:EOLhyphen"/>ven, where are all <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Pſalm. 16.</note> deliciouſneſſes and de<g ref="char:EOLhyphen"/>lectabilities; and if that be not enough, I my ſelf (who am the comprehen<g ref="char:EOLhyphen"/>ſion of all things deſire able) will be thy Re<g ref="char:EOLhyphen"/>ward. Nay, rather then fail, if fair words and glorious promiſes will not prevail, he comes with an holy violence, (<hi>Pſalme</hi> 9. 12.) <hi>If a man will not turn,</hi> (no <hi>ho</hi> with him, but will ſtill go on in that his fro<g ref="char:EOLhyphen"/>ward humour;) <hi>he hath drawn his ſword</hi> (ſayes the Prophet) as if like a paſ<g ref="char:EOLhyphen"/>ſionate
+<pb n="83" facs="tcp:55789:52"/>lover, he ſet the point at his breaſt, and will enforce him to love him. <hi>Nirembergius</hi> breaks out, <hi>Quid mibi &amp; tibi, O bo<g ref="char:EOLhyphen"/>ne Ieſu, ut me ames?</hi> Bleſſed Jeſus, what is my love worth, that thou ſhouldſt uſe ſuch violence for the procuring of it? For the moſt part, if we deſire that any ſhould love us, we make choice of ſuch as are moſt lovely. Alas, <hi>Ego horror &amp; odium totius mundi;</hi> I am ſuch an horrid, odi<g ref="char:EOLhyphen"/>ous &amp; deformed monſter, that all thy creatures riſe up againſt me, and threaten
+<pb n="84" facs="tcp:55789:53"/>my confuſion. What a condeſcenſion is this, that thou ſelecteſt me for one of thy lovers, who deſerve thy love leſs then the very Devils themſelves! And yet what ſayes my Apo<g ref="char:EOLhyphen"/>ſtle? If any man love not the Lord Jeſus Chriſt. How? If any man not love him, when its mans greateſt honor that Chriſt vouchſafeth to give him leave to love him; nay, when, if he do love him, Chriſt gains nothing by it, but all the advantage ac<g ref="char:EOLhyphen"/>crues to the man himſelf? I will appeal now, if thi
+<pb n="85" facs="tcp:55789:53"/>be not a foule ſhame, and if thou doſt not deſerve this <hi>Anathema, Maran-atha.</hi> Yet,</p>
+            <p n="2">2. There is a greater condeſcenſion then this. He hath not onely conde<g ref="char:EOLhyphen"/>ſcended to give us leave to love him, but, rather then fail of our love, he hath made us capable of loving him. The Philoſopher gave God thanks, that he made him a Man and not a Beaſt: and ſo muſt thou, or elſe thou art worſe then a beaſt; and ſo well maiſt thou, if thou wilt but take a reflext view of the ſuper-eminent
+<pb n="86" facs="tcp:55789:54"/>dignitie of thy Nature above the reſt. Why Man (ſaith <hi>Epictetus</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. if thou be think thy ſelf of thy natu<g ref="char:EOLhyphen"/>rall dignitie, its a great ble<g ref="char:EOLhyphen"/>miſh and derogation to thy honour, if thou ſtoop to the love of any thing below the Deitie, whoſe very Image is ſtampt upon thee.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> What a lovely cha<g ref="char:EOLhyphen"/>racter doth <hi>Philo</hi> give of Man? He is (ſaith he) the moſt lively and lovely <hi>Idea</hi> of the Archetypall Life and Beautie, the moſt amiable picture of the moſt ami<g ref="char:EOLhyphen"/>able
+<pb n="87" facs="tcp:55789:54"/>Deity. And indeed (ſayes <hi>Socrates</hi>) he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the one<g ref="char:EOLhyphen"/>ly Creature under the Sun that is capable of religion, of knowing and of loving God; none other but An<g ref="char:EOLhyphen"/>gels are ſo. Which made the Prophet break out in<g ref="char:EOLhyphen"/>to admiration, <hi>Lord, what is man, that thou ſhouldeſt ſo honour him? Thou haſt made him little lower</hi> (not many degrees lower) <hi>then the</hi> very <hi>Angels.</hi> Caſt thy eye upon thy ſelf: doſt thou not ſee a moſt vivacious will and ſagacious under<g ref="char:EOLhyphen"/>ſtanding ſhining within
+<pb n="88" facs="tcp:55789:55"/>thee, as in thoſe Angelicall Spirits? And why (thinkeſt thou) did he ſo condeſcend to beſpangle thy ſoul wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h thoſe glorious powers, why with that vigorous underſtanding; but that, as an Eagle, thou mighteſt ſoare up, and gaze upon that moſt bright and daz<g ref="char:EOLunhyphen"/>zeling Sun of Glory? and why with that will, but, that upon that clear view of his reſplendent Bright<g ref="char:EOLhyphen"/>neſs, it might, as thoſe Angels, be inflamed with love? Nay, not onely hath he impreſt in thee a vertuall capabilitie of love;
+<pb n="89" facs="tcp:55789:55"/>but ſee with what art he contrives to imprint an actuall capacitie of love: elſe why (I pray) doth he preſent thee with ſo many tokens of his love, but to win and gain thy love? <hi>The heavens declare the Glory of God,</hi> (ſayes the Kingly Prophet:) not onely the Glory of his Power, but alſo of his Love. What a glorious Love was that, to enlight<g ref="char:EOLhyphen"/>en thee here below with Stars, as it were with ſo many radiant, glittering Diamonds! The heavens? I, and ſo doth every crea<g ref="char:EOLhyphen"/>ture
+<pb n="90" facs="tcp:55789:56"/>under the Heavens, proclaim the wonderfull love of God to man. Look where thou wilt, thou art ſurrounded with flames of his Love: <hi>mirabile eſt ſi non ardeas</hi> (ſayes <hi>Cuſanus</hi>) it were ſtrange if thou ſhouldſt not be ſet on fire; if not, ſure thou muſt needs be a diabolicall Sa<g ref="char:EOLhyphen"/>lamander.<note place="margin">Diabolicae ſunt Sala<g ref="char:EOLhyphen"/>mandrae, qui tantis ignibus non cale<g ref="char:EOLhyphen"/>ſiunt <hi>(Cu<g ref="char:EOLhyphen"/>ſanus.)</hi>
+               </note> Nay, why elſe; but that he might enamour thee on him, doth he ſend thee ſo many Love-letters tranſcribed by the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles, and thoſe ſpeciall pledges of his Love, the Sacraments
+<pb n="91" facs="tcp:55789:56"/>ſealed with his own bloud? Nay, why elſe doth he ſend down his glorious Spirit, that Architectoni<g ref="char:EOLhyphen"/>call Chymiſt of Love; but, that he might by his ſa<g ref="char:EOLhyphen"/>cred breath blow up thoſe dead cinders of thy affe<g ref="char:EOLhyphen"/>ctions into ſparkes, and thoſe ſparkes into flames, and thoſe flames into per<g ref="char:EOLhyphen"/>petuall burnings? Nay, why elſe did this Jeſus himſelf, the bright Sun of Love, come down from his ſphere of Glory, and condeſcend to be ſhut up in the dark lantern of our fleſh, but that he might
+<pb n="92" facs="tcp:55789:57"/>even burn and overcome thee with love of him, as he was with love of thee? Here is an enforcement upon thee; Love him now thou muſt, other<g ref="char:EOLhyphen"/>wiſe thou art prodigiouſly un-naturall. Every creature loves that which is like it ſelf:<note place="margin">Ecclus 13.15.</note> (the Wiſe man ob<g ref="char:EOLhyphen"/>ſerveth that to be the very Law of Nature, which the very Brutes keep inviola<g ref="char:EOLhyphen"/>ble) and ſo will man, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he will cleave to his like: and yet what ſayes my Apoſtle? <hi>If any man love not the Lord Jeſus Chriſt.</hi> How? not love
+<pb n="93" facs="tcp:55789:57"/>him that is ſo like him, that he is cloathed with the ſame nature with man? No man hateth his own fleſh; and yet If any man not love the Lord Jeſus Chriſt, who is fleſh of his fleſh, and bone of his bone? I'le appeal, whe<g ref="char:EOLhyphen"/>ther ſuch a man be not <hi>op<g ref="char:EOLhyphen"/>probrium naturae,</hi> a ſhame and diſgrace to nature. <hi>A<g ref="char:EOLhyphen"/>nacreon</hi> the Poet tells, how there had been an hot duell betwixt Love and himſelf a long time: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Love (ſaith he) grapled with me with all the skill and ſtrength
+<pb n="94" facs="tcp:55789:58"/>that he had; but all that would not do, he had too rough a piece to encoun<g ref="char:EOLhyphen"/>ter with: what doth he then,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but in a furie ſhoot his arrowes thick and threefold at my breaſt? but all they were diſap<g ref="char:EOLhyphen"/>pointed by my prudent re<g ref="char:EOLhyphen"/>treat and flight: At laſt having thus emptied his Quiver of all his ſtore, very ſlyly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he darted himſelf into my heart, and then alas, what could I do elſe but yield? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> oh Love, thou haſt got the victorie, I may not,
+<pb n="95" facs="tcp:55789:58"/>I will not reſiſt thee any more. And (I pray thee) is it not thy caſe, and every mans? How many vollies of his Arrowes did the Lord Jeſus, that God who is Love it ſelf, ſend after thee? how many tokens of his Love? and that in ſuch a prodigall manner, that, as if he had emptied his Quiver, he cries our, <hi>What could I have done more</hi> for my people <hi>then I have done?</hi> and at laſt, when all would not make any impreſſion, ſee if he doth not ſhoot himſelf into our very humane na<g ref="char:EOLhyphen"/>ture;
+<pb n="96" facs="tcp:55789:59"/>ſee if by the force of love he be not transform<g ref="char:EOLhyphen"/>ed into a man.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Luci<g ref="char:EOLhyphen"/>an.)</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as <hi>Venus</hi> ſaid to <hi>Cupid</hi>) Love, ſee what Miracles thou doſt, who haſt power over God himſelf, and canſt turn him into what ſhape thou pleaſeſt. And yet If any man love not the Lord Jeſus Chriſt? What, not him that was ſo overcome with love to man, that he condeſcended to become Man, and that to enforce man to the love of him? If he will not love him as God, he muſt love him now, becauſe he is become
+<pb n="97" facs="tcp:55789:59"/>Man like himſelf: and yet if any man not love him? Say now, whether that man be not <hi>filius mortis qui hoc fecerit,</hi> an heir of this Apoſtolicall curſe, and death, which doth ſuch an unnaturall thing. Not love him, who made him ca<g ref="char:EOLhyphen"/>pable of love; who, if he had pleaſed, might have made him a ſtock, or ſtone, or brute, neither capable nor ſenſible of love? nay, not him, who himſelf was therefore pleaſed to be made Man, that man might be conſtrained to love him, as being of one
+<pb n="98" facs="tcp:55789:60"/>and the ſelf-ſame nature with himſelf? Not love him, who is not onely God, but Man? nay, not him, who ſo loved man, that he hath wedded mans nature to his own divine, glorious Perſon? nay, not him, who is the very Prin<g ref="char:EOLhyphen"/>ciple of all Love, and Love it ſelf? If this doth not ſpeak the man a Monſter, and ſet up an high aggra<g ref="char:EOLhyphen"/>vation againſt him, what will? How, if any man not love him, without whom he cannot love himſelf, or any thing elſe? For that (I hope) thou wilt
+<pb n="99" facs="tcp:55789:60"/>not deny, becauſe himſelf hath aſſerted it;<note place="margin">Iohn 15.5.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>without me ye can do nothing.</hi> He doth not ſay (ſaith St. <hi>Augustine,</hi>) <hi>Sine me parum poteſtis,</hi> without me ye can do but little; or, but <hi>difficulter,</hi> very hardly: no, but <hi>nothing</hi> at all,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> not ſo much as ſpeak a good word, or think a good thought, (2 <hi>Cor.</hi> 3.5.) No, but whatſoever vertue or grace ſhineth in us, they are ſtreams flowing onely from that fountain: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of his ful<g ref="char:EOLhyphen"/>neſs we all receive,</hi> (John 1.16.) If thou invoke him
+<pb n="100" facs="tcp:55789:61"/>its but an echo of that voice of his firſt calling thee: If thou ſee him, it is not ſo much an aſpecti<g ref="char:EOLhyphen"/>on, as a reſpection. Juſt as an Image in the Glaſs, (ſayes <hi>Ficinus</hi>) that is im<g ref="char:EOLhyphen"/>printed there by the face looking into it; that Image does not look back upon the Face, except the Face firſt look forward upon the Image: and in that the Image does ſeem to ſee the Face, its nothing elſe, but that the Face does ſee the Image. And ſo, if thou love Chriſt, it is nothing elſe but the reflection or
+<pb n="101" facs="tcp:55789:61"/>reſultance of that beam of love, that was firſt trajected or darted from that pure fountain of Love. Its moſt certain, Love him thou canſt not, no, nor any thing elſe, <hi>niſi amore ipſo prius inflammatus,</hi> except that ſupreme wheel ſet that inferiour wheel of thine upon that motion. How is it poſſible that any man ſhould <hi>affectare extra charitatem,</hi> love without love? love without him, that is the very principle of all Love? If thou canſt not, I muſt now appeal, if thou be not a prodigie
+<pb n="102" facs="tcp:55789:62"/>in nature, if thou return hatred to him, who there<g ref="char:EOLhyphen"/>fore made thee capable of love, that whatſoever thou loveſt, might be in order to him. Were not that a monſtrous Glaſſe, that ſhould return a Frown for a Smile, and Uglineſs for Beautie? And is not the ſame thy caſe, if thou re<g ref="char:EOLhyphen"/>turn to the Lord Jeſus Chriſt hatred for love? What, love any thing ra<g ref="char:EOLhyphen"/>ther then him, without whoſe influxe, neither could that thing be, nor couldeſt thy ſelf love it? Nay, hate him, by whoſe
+<pb n="103" facs="tcp:55789:62"/>vertue thou loveſt that, whatſoever it be, which ingendreth that hatred? How ſhamefully unna<g ref="char:EOLhyphen"/>turall is this? How doth every thing in nature cry out upon thee? For there is nothing but naturally returns to its originall Cauſe;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Procl.) Aquae in tanium aſ<g ref="char:EOLhyphen"/>condum, in quantum deſcendunt.</note> and alwayes (ſayes <hi>Proclus</hi>) the revolution comes home to the devo<g ref="char:EOLhyphen"/>lution, the aſcenſion to the firſt deſcenſion. <hi>The rivers run to the Sea</hi> (ſayes <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> Eccles 1.7.) why? becauſe they firſt flowed from the Sea. The face in the glaſs looks back to the
+<pb n="104" facs="tcp:55789:63"/>face looking on the glaſs, why? becauſe it borrows all its being, and grace and features from it. The ſparks of fire aſcend or fly upwards, why? becauſe they firſt came from a<g ref="char:EOLhyphen"/>bove. The beams of the Sun rebound back to the Sun, why? becauſe they were ſtreamed thence. Al<g ref="char:EOLhyphen"/>wayes in nature there is a return of all things to their originall Cauſe.<note place="margin">
+                  <g ref="char:V">Ʋ</g>naquae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> res repetit ſuam ori<g ref="char:EOLhyphen"/>ginem <hi>(Marſ. Ficinus)</hi>
+               </note> Why now, Love is a flame of Chriſts own kindling; and whi<g ref="char:EOLhyphen"/>ther ſhould it aſcend but to its own proper Sphere? Love is a beam that was
+<pb n="105" facs="tcp:55789:63"/>firſt ſhot from Chriſt the Sun of righteouſneſs, and a ſtream that originally flowed out from that im<g ref="char:EOLhyphen"/>menſe vaſt Ocean of all Graces; &amp; whither ſhould it retire or return but to him? And yet, If any man not love the Lord Jeſus Chriſt? How? not love Him, who is the very pure fountain of Love? What a prodigious unnaturall wretch is that man? Let him ſay himſelf, whether my Apoſtle could do leſs then let fly his thundering Canons at him. Yet that is not all; But</p>
+            <pb n="106" facs="tcp:55789:64"/>
+            <p n="3">3. There is a greater condeſcenſion of his Love to man yet. He hath not onely vouchſafed to give thee leave to love him, and to make thee capable of that love; but himſelf is the firſt that, what? ah, what am I about to ſay?<note place="margin">Loquimur, &amp; ſtupe<g ref="char:EOLhyphen"/>mus, inde non tace<g ref="char:EOLhyphen"/>mus unde, tamen clo<g ref="char:EOLhyphen"/>qui non v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lemus, <hi>(St. Leo.)</hi>
+               </note> that which though I can<g ref="char:EOLhyphen"/>not expreſs, yet can I not be ſilent: himſelf is the firſt that condeſcends, what? to <hi>love us first.</hi> Nay, higher yet, (though that in the judgement of Saint <hi>Iohn</hi> be an high condeſcen<g ref="char:EOLhyphen"/>ſion) he condeſcends to ſue to us for our love;<note place="margin">1 Iohn 4.10.</note> nay,
+<pb n="107" facs="tcp:55789:64"/>and ſends Ambaſſadors to agitate, nay, to intreat our love.<note place="margin">2 Cor. 5.20.</note> 
+               <hi>We are Chriſts Am<g ref="char:EOLhyphen"/>baſſadors</hi> (ſaith my Apoſtle) <hi>as if God beſought you by us; we beſeech you in Chriſts ſtead, be ye reconciled unto God.</hi> Canſt thou hear this, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy heart not be moulten into Love, at leaſt not ſtrucken with Admirati<g ref="char:EOLhyphen"/>on? Be ye reconciled unto God? and, we beſeech you? nay, God by us beſeecheth? what condeſcenſions are theſe? One would think, conſidering who began the Quarell, thou ſhouldeſt rather beſeech him to be
+<pb n="108" facs="tcp:55789:65"/>reconciled to thee, then that he ſhould beſeech thee to be reconciled unto him. Compare the Per<g ref="char:EOLhyphen"/>ſons: He; who? God, an infinite Majeſtie, at whole preſence the mountains tremble; Beſeecheth, who<g ref="char:cmbAbbrStroke">̄</g>? Thee, a poor ſilly Flea, a Worm,<note place="margin">Marcus Imperat</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a little Soul carrying about thee a dead piece of fleſh. Weigh the circum<g ref="char:EOLhyphen"/>ſtance of Time: He be<g ref="char:EOLhyphen"/>ſeecheth thee, when? when there is any thing of ſuch Lovelineſs in thee that is worth the Beſeeching? no, but when thou art wal<g ref="char:EOLhyphen"/>lowing
+<pb n="109" facs="tcp:55789:65"/>in the goare, when (God knowes) there is no ſuch un-lovely and un<g ref="char:EOLhyphen"/>ſighty piece. A ſtrange con<g ref="char:EOLhyphen"/>deſcenſion this; as if a King ſhould fall in love with a poor leprous Da<g ref="char:EOLhyphen"/>moſell, and ſend Ambaſ<g ref="char:EOLhyphen"/>ſadours to woe and be<g ref="char:EOLhyphen"/>ſeech her to entertain his Majeſties love. But now conſider the manner of his beſeeching thee, and that muſt needs ſwallow thee up into aſtoniſh<g ref="char:EOLhyphen"/>ment. He beſeecheth, how? by writing thee Love-Letters in his own Bloud. He ſo paſſionately
+<pb n="110" facs="tcp:55789:66"/>loves thee, that rather then fail, he will die to winne thy love. No fond wan<g ref="char:EOLhyphen"/>ton lover of them all (ſayes Saint <hi>Chryſoſtome</hi>) though his brain be by the heat of love enfeavered to an high degree of frenzie, that is ſo all on fire with the love of his Miſtreſs, as the Lord Ieſus is with the love of thy Soul. He ſo loved thee, as that he expoſed himſelf to thouſands of Wounds, not onely made by Men, or Devils, but by the heavie hand of Divine Juſtice; and interpoſed his own ſacred breaſt to re<g ref="char:EOLhyphen"/>ceive,
+<pb n="111" facs="tcp:55789:66"/>ſo to ſtave them off from thee. <hi>Homines,</hi>
+               <note place="margin">Quid mi<g ref="char:EOLhyphen"/>ramini, niſi ſtupeſ citis, quod Deus tam affectuoſe amet crea<g ref="char:EOLhyphen"/>turas? <hi>(Euſeb. Nirem<g ref="char:EOLhyphen"/>berg.) St. Bern.</hi>
+               </note> 
+               <hi>quid miramini?</hi> Ah (Men) what is it that ye can ſtand ama<g ref="char:EOLhyphen"/>zed at, if you do not at this, that God ſhould ſo affectionately love his crea<g ref="char:EOLhyphen"/>ture? that, <hi>Deus tantus tan<g ref="char:EOLhyphen"/>tillos, tantum, tam gratis;</hi> ſo great a God ſhould ſo much love ſuch little in<g ref="char:EOLhyphen"/>conſiderable worms? Shew me ſuch another wonder of love, if you can. That condeſcenſion of <hi>Ieſus,</hi> (ſayes <hi>Nirembergius</hi>) that ſtupendious humbling of himſelf to Death,<note place="margin">Philip. 2.7.</note> and emptying himſelf of Glo<g ref="char:EOLhyphen"/>ry,
+<pb n="112" facs="tcp:55789:67"/>was ſuch a tranſcen<g ref="char:EOLhyphen"/>dent maſter-piece of Love, that, ſhould any man have either imagined any ſuch thing, or wiſhed that ſo it might be, before himſelf was pleaſed to reveal that great ſecret, <hi>The ſeed of the woman ſhall break the Ser<g ref="char:EOLhyphen"/>pents head; preces blaſphemiae crederentur, votum ſacrilega voluntas,</hi> that thought of his had been blaſphemy, and that wiſh horrible ſa<g ref="char:EOLhyphen"/>criledge. What an impu<g ref="char:EOLhyphen"/>dence were it, if a Rebell juſtly ſentenced by the Judge to tortures &amp; death, ſhould put up a Petition
+<pb n="113" facs="tcp:55789:67"/>to the King, to lay down his life, and to ſuffer the penaltie of the Law for him? what rude and pro<g ref="char:EOLhyphen"/>digious Impudence were this? And yet, ſuch was the Love of our Redeemer, Jeſus Chriſt, the King of Kings; he humbles him<g ref="char:EOLhyphen"/>ſelf to Death, nay, the death of the Croſs, the moſt ignominious and curſed kind of death, and that for us Men, who for our Rebellion were dam<g ref="char:EOLhyphen"/>ned to eternall death; nay, and that before we ever, what? did make it our ſuit to his Majeſtie; nay,
+<pb n="114" facs="tcp:55789:68"/>and before we ever durſt have thought of any ſuch horrid requeſt. It was a love unto death it ſelf, and that is the ſtrongeſt of all Loves. <hi>Greater love then this</hi> (ſayes my Apoſtle) <hi>can no man have, then to lay down his life for another:</hi> That is the Grand Love, without all doubt, and all compare; that is the <hi>chari<g ref="char:EOLhyphen"/>tas ſuperlativa,</hi> the greateſt of all. And yet here is one circumſtance that makes this ſuperlative love of Chriſt to us Men, more then ſuperlative: it was a love of anticipation; ſuch
+<pb n="115" facs="tcp:55789:68"/>a love, that not onely ex<g ref="char:EOLhyphen"/>ceeds all imaginations and deſires, but prevents all, which is the moſt kindly of all loves, the beſt kinde of love. And ſure it muſt ſpeak us the worſt of all creatures,<note place="margin">Nimis du<g ref="char:EOLhyphen"/>rus est a<g ref="char:EOLhyphen"/>nimus, qui ſi non im<g ref="char:EOLhyphen"/>pendere, nec repen<g ref="char:EOLhyphen"/>dere vult <hi>(S. Aug.)</hi>
+               </note> if we ſhould not anſwer ſuch a love as this, with love. If any man love not the Lord Jeſus Chriſt? How? not love him, who ſo loved Man as to die for him, rather then Man ſhould die the death? That were brutiſh. Bru<g ref="char:EOLhyphen"/>tiſh? nay, worſe; for the moſt ſavage of Brutes love thoſe that love them; the
+<pb n="116" facs="tcp:55789:69"/>very Lions and Tigres do ſo.<note place="margin">Amant a mantes Le<g ref="char:EOLhyphen"/>ones amant Tigres. <hi>(S. Aug.)</hi>
+               </note> and yet, If any man not love the Lord Jeſus Chriſt, who ſo loved man as to die for him? that were devilliſh. Devilliſh? nay, worſe then devilliſh, (ſayes <hi>Nirembergius</hi>) for there is not ſo great a tie or ingagement of love up<g ref="char:EOLhyphen"/>on the Devils, as there is upon us Men; the Lord Jeſus did not die for them, but for us Men, and for our ſalvation, <hi>eripere de faucibus,</hi> to reſcue us out of their furious jawes. If they hate him, they hate onely their Creatour; but if any
+<pb n="117" facs="tcp:55789:69"/>of us men be ſo wretched, we do not onely hate our Creator, but our Redeemer, we hate him that poured out his own bloud to re<g ref="char:EOLhyphen"/>deem us.</p>
+            <p>Say now, thou Mon<g ref="char:EOLhyphen"/>ſter, whether thou beeſt not confounded with ſhame, and whether my Apoſtle could do leſs then to thunder out his con<g ref="char:EOLhyphen"/>founding <hi>Anathema</hi> againſt thee. Which is my firſt kind of Arguments, for the ſhaming of thee out of that thy peeviſh and more then devilliſh humour; <hi>viz.</hi> the condeſcenſions of
+<pb n="118" facs="tcp:55789:70"/>Chriſts Love to us.</p>
+            <p n="2">2. If thou beeſt not ſhamed, if thou pleaſe to take a view of thoſe ſuper<g ref="char:EOLhyphen"/>eminent Glories &amp; Super<g ref="char:EOLhyphen"/>excellencies that ſhine in him, I ſhall challenge thee, if thou canſt chooſe, do not love him.</p>
+            <p>But now (my ſweet Je<g ref="char:EOLhyphen"/>ſu) how ſhall I be able to diſplay the radiant beams of thy Glories, whoſe In<g ref="char:EOLhyphen"/>tellect is cloathed, or ra<g ref="char:EOLhyphen"/>ther clouded with Reaſon, and Reaſon with Phanſie, and Phanſie with Senſe,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> which ſeeth nothing but ſhadowes and deluſive
+<pb n="119" facs="tcp:55789:70"/>dreams? Alas, the bright<g ref="char:EOLhyphen"/>neſs of thy Glory dazels me; and the more bright that ſhines, the more it leaves me in darkneſs: nay,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Di<g ref="char:EOLhyphen"/>onyſ. Are<g ref="char:EOLhyphen"/>op.)</note> and the more that my eye is thus dazeled and dark<g ref="char:EOLhyphen"/>ned, ſo much the more clearly does it ſee thee: I can never more fully ſee thee, then when I ſee thus much, that I cannot ſee thee; never till then do I comprehend thee indeed,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Damaſ<g ref="char:EOLhyphen"/>cen.)</note> but when I comprehend that thou art altogether in<g ref="char:EOLhyphen"/>comprehenſible.</p>
+            <p>Reader, I beſeech thee help me out in admira<g ref="char:EOLhyphen"/>tion.
+<pb n="120" facs="tcp:55789:71"/>The Prophet ſayes, <hi>He ſhall be called wonderful;</hi>
+               <note place="margin">Eſay 9.6.</note> and ſo well he may, (ſayes <hi>Hierotheus:</hi>) For howſo<g ref="char:EOLhyphen"/>ever that glorious Majeſty condeſcended to be clad with the baſe rags of our fleſh;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> yet, which is the wonder of wonders, in the very naturals, which he borrowed from us, he was ſuper-naturall, in our very eſtentialls, he was ſuper-eſſentiall; as his walking upon the Sea te<g ref="char:EOLhyphen"/>ſtifies, to the aſtoniſhment of all. No wonder he is ſtiled <hi>Wonderful,</hi> for indeed there is nothing ſpoken of
+<pb n="121" facs="tcp:55789:71"/>him but ſpeaks a Won<g ref="char:EOLhyphen"/>der.</p>
+            <p>That he ſhould be born,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. (S. Chry<g ref="char:EOLhyphen"/>ſoſt.</note> who is Eternitie it ſelf; be made Fleſh, by whom not onely all Fleſh, but all Principalities and Powers were made: nay, made of a woman; nay, and that a Virgin: this is ſuch a Wonder, that the very An<g ref="char:EOLhyphen"/>gels deſcend from Heaven to ſee a greater wonder below; nay, ſuch, that God himſelf ſeemeth to wonder at it;<note place="margin">Ier. 31.22.</note> 
+               <hi>The Lord hath created a new thing upon earth, a Woman ſhall compaſs a Man.</hi> A new thing? why?
+<pb n="122" facs="tcp:55789:72"/>is that ſuch a wonder? Yes, and thy ſelf ſhalt ſay, there was never any ſuch, if once thou ſee what wo<g ref="char:EOLhyphen"/>man that is, and what that man. That woman is ſuch a woman as is a Virgin (ſaith the Prophet <hi>Eſay</hi>) ſuch a woman as never knew man.<note place="margin">Eſay 7.14</note> You may think this ſtrange, for ſo did that Bleſſed Virgin her ſelf, when an Angel told her ſhe ſhould bring forth a Son; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>how can this be, ſeeing I know not a man?</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Ioan, Metrop.)</note> Very ſtrange, a Mother, and yet never knew man; a Virgin, and
+<pb n="123" facs="tcp:55789:72"/>yet compaſs a man.<note place="margin">Nec alia mater de<g ref="char:EOLhyphen"/>cebat De<g ref="char:EOLhyphen"/>um niſi vir<g ref="char:EOLhyphen"/>go, nec ali<g ref="char:EOLhyphen"/>us filius decebat virginem niſi Deus, <hi>(Petr. Ble<g ref="char:EOLhyphen"/>ſenſ.) Eſay 40.12.</hi>
+               </note> And yet look upon that man that is compaſſed by her, it's infinitely more ſtrange. It is no other then he that <hi>meaſures the waters with his ſpan, and comprehends the hea<g ref="char:EOLunhyphen"/>vens with his fiſt;</hi> it is he <hi>whom the heavens of heavens cannot comprehend</hi> (ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon:</hi>) and that he who is in<g ref="char:EOLhyphen"/>comprehenſible, ſhould be comprehended within the narrow womb of a Vir<g ref="char:EOLhyphen"/>gin, if this be not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith <hi>Damaſcen</hi>) the onely new thing ei<g ref="char:EOLhyphen"/>ther under or above the Sun, what is? Never was
+<pb n="124" facs="tcp:55789:73"/>there ſuch a demonſtra<g ref="char:EOLhyphen"/>tion of the power of the Deitie as this (ſaith Saint <hi>Baſil</hi>) that the leſſer ſhould comprehend the greater,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Baſ.)</note> that the Daughter ſhould conceive and bring forth her Father, the Sheep her Shepherd, the Creature her Creatour: was there ever ſuch a wonder as this?</p>
+            <p>And ſo not onely his Birth, but his Death, how wonderfull was it? which gave ſuch a deadly wound, not onely to Death, in token whereof many of the dead aroſe out of their
+<pb n="125" facs="tcp:55789:73"/>Sepulchres; but alſo to him that had the power of death, deveſted him of his power, threw him out of his Temples, ſilenced his Oracles. What a trium<g ref="char:EOLhyphen"/>phant expreſſion is that of my Apoſtle, (<hi>Coloſſ.</hi> 2.15.) <hi>Having ſpoyled Principali<g ref="char:EOLhyphen"/>ties and Powers, he made a ſhew of them openly,</hi> (as his captives) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>trium<g ref="char:EOLhyphen"/>phing over them</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>by the Croſs.</hi> It was ſuch a rout, that <hi>Ignatius</hi> ſayes, the De<g ref="char:EOLhyphen"/>vill never ſince either hears or ſees the Croſs,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but he is all in a ſhaking and trem<g ref="char:EOLhyphen"/>bling.</p>
+            <pb n="126" facs="tcp:55789:74"/>
+            <p>And then his whole Life, what was it elſe but <hi>mira<g ref="char:EOLhyphen"/>culis fulgens,</hi> a very Thea<g ref="char:EOLhyphen"/>tre of miracles? What think you of giving eyes to the blind,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Sibylla.)</note> life to the dead, hearing to the deaf, ſpeech to the dumb? He did ſuch wonders, that <hi>A<g ref="char:EOLhyphen"/>melius Platonicus</hi> crieth out, Sure God hath put on our humane nature, and there<g ref="char:EOLhyphen"/>in doth ſhew the world the Majeſtie of the Divine nature. And <hi>Agbarus</hi> King of <hi>Edeſſa</hi> (ſayes <hi>Euſebius</hi>) wrote a letter to him, wherein he concludes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one of theſe
+<pb n="127" facs="tcp:55789:74"/>two, Either Thou art God,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> or the Son of God, that doeſt thoſe things that I hear of thee.</p>
+            <p>And yet, If any man love not the Lord Jeſus Chriſt? How? not Him, whoſe Birth, and Life, and Death, and all Actions ſpeak no<g ref="char:EOLhyphen"/>thing but Wonders? Not love Him that is ſo full of ſuch Excellencies, that the very blind can deſcrie the glories of the Deitie ſhi<g ref="char:EOLhyphen"/>ning through the cloud of our fleſh which he aſſu<g ref="char:EOLhyphen"/>med? Its impoſſible: thou muſt either deny that,<note n="*" place="margin">Matth. 8.29. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (S. <hi>Chry<g ref="char:EOLhyphen"/>ſoſt.</hi>)</note> which the Devils durſt,
+<pb n="128" facs="tcp:55789:75"/>not, his Divinitie; or elſe thou muſt be raviſhed with love of him.</p>
+            <p>Or if that varietie of his Excellencies allure not, caſt thy eye upon the variation of the glorious Reſemblan<g ref="char:EOLhyphen"/>ces which my Apoſtle here runs upon. <hi>The Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi> What a divine <hi>philtrum</hi> and charm of love is wrapt up in every of theſe Titles,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> able to melt hearts of iron into love? <hi>The Lord,</hi> that ſpeaks a ſoveraign Power. He is <hi>Lord of all</hi> (ſayes Saint <hi>Pe<g ref="char:EOLhyphen"/>ter:</hi>) yea, and ſo ſayes every creature;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> all ſtoop
+<pb n="129" facs="tcp:55789:75"/>to the Sceptre of his Impe<g ref="char:EOLhyphen"/>riall command;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>(Archy<g ref="char:EOLhyphen"/>lus).</hi>
+               </note> 
+               <hi>Fire and hail, ſnow and vapours, depths and all dragons, winde and ſtorm, all fulfilling his word,</hi> (Pſal. 148.8.) nay, ſo the Angels above; <hi>Could</hi> I <hi>not now, if I would, command a le<g ref="char:EOLhyphen"/>gion of Angels?</hi> (ſaith he) nay, and the very Devils below; <hi>Lord, in thy Name the Devils are ſubject to us.</hi> He is a Lord of that <hi>Power,</hi> that <hi>he bears up all things:</hi>
+               <note place="margin">Heb. 1.3.</note> who if he ſhould with<g ref="char:EOLhyphen"/>draw the influxe of his Power but one moment, we ſhould all inſtantly ſink into our old Chaos
+<pb n="130" facs="tcp:55789:76"/>again. <hi>It is good for me to cleave to the Lord</hi> (ſayes <hi>David:</hi>) and he ſaid wel in it (ſayes S. <hi>Auguſt.</hi>) for if he cleave not to him, to him<g ref="char:EOLhyphen"/>ſelf he cannot,<note place="margin">Domine, ſi vis ut re<g ref="char:EOLhyphen"/>cedam à te, da mibi alium Te, alias non recedam.</note> Lord, if thou wilt that I depart from thee, I muſt beſeech thee to give me another Thee, other<g ref="char:EOLhyphen"/>wiſe I ſhall be very loath to depart from thee. And yet, If any man love him not? fly off in his love from him, who is a Lord of that power, that he can ſo eaſily, if his wrath be kindled, diſmiſs him into the lake of fire and brim<g ref="char:EOLhyphen"/>ſtone? what deſperate folly is that?</p>
+            <pb n="131" facs="tcp:55789:76"/>
+            <p>But if his Power make no impreſſion in thee, ſee what that other name <hi>(Chriſt)</hi> will do. He is not onely Lord, but Chriſt. Which is a name (ſayes the Spouſe) that breaths forth nothing but Aromatick odours and rich perfumes; <hi>Thy Name is as an ointment poured out,</hi>
+               <note place="margin">Cant. 1.2.</note> 
+               <hi>and therefore the Virgins love thee:</hi> and, <hi>All thy garments ſmell of Myrrh, Aloes and Caſsia</hi> (ſayes King <hi>David:</hi>) and, <hi>Thou art anointed with the oyle of glad<g ref="char:EOLhyphen"/>neſs above thy fellows; Prae conſortibus, &amp; pro conſorti<g ref="char:EOLhyphen"/>bus,</hi> for thy fellows too,
+<pb n="132" facs="tcp:55789:77"/>that it might drop upon all that breathe after the fragrant Sents thereof. Its this Chriſt, this Anointed, that perfumes all, not on<g ref="char:EOLhyphen"/>ly our Perſons, but our Prayers, and all other acti<g ref="char:EOLhyphen"/>ons, and makes them odo<g ref="char:EOLhyphen"/>riferous and acceptable to his Father. Its he onely that is the ſole delight of all the Divine Senſes: no<g ref="char:EOLhyphen"/>thing delicious to his pa<g ref="char:EOLhyphen"/>lat, but what is ſeaſoned with the gall of his Son; nothing melodious to his ear, but what ſounds with the name of this his eter<g ref="char:EOLhyphen"/>nall Word; nothing love<g ref="char:EOLhyphen"/>ly
+<pb n="133" facs="tcp:55789:77"/>in his eye, but what is ſeen through this ſpotleſs glaſs of Beautie; nothing pleaſing to his ſmell, but what is ſented with the rich odours of this his Chriſt or Anointed. <hi>This is my beloved Son, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in whom I am well plea<g ref="char:EOLhyphen"/>ſed,</hi> (Matth. 3.17.) And yet, If any man love not the Lord Jeſus Chriſt? How? not love him, with<g ref="char:EOLhyphen"/>out whom he cannot be lovely? not love him, with<g ref="char:EOLhyphen"/>out whom he may not draw near to the preſence of God, but muſt be ſtruck with a javeline of death?
+<pb n="134" facs="tcp:55789:78"/>If any man not love Chriſt, without whoſe ſweet un<g ref="char:EOLhyphen"/>ctions, Hell it ſelf exhales not a more odious, noy<g ref="char:EOLhyphen"/>ſome ſtench, then every man muſt? What Vultures are ſuch Wretches, <hi>quibus etiam Alabastrum unguenti ple<g ref="char:EOLhyphen"/>num putere videtur;</hi> that are rather drawn with ſtinking carrions, then ſuch preci<g ref="char:EOLhyphen"/>ous ſovereign Perfume?</p>
+            <p>Yet, if this will not al<g ref="char:EOLhyphen"/>lure thee, what thinkeſt thou of him as <hi>Ieſus?</hi> which very word ſpeaketh and breatheth, forth nothing but love (ſayes Saint <hi>Ber<g ref="char:EOLhyphen"/>nard) Mel in ore, melos in au<g ref="char:EOLhyphen"/>re.</hi>
+               <pb n="135" facs="tcp:55789:78"/>Spell the letters, and there will reſound in thine eares a Saviour. <hi>O quam dul<g ref="char:EOLhyphen"/>ce nomen!</hi> what muſick ſo raviſhing? And yet, If any man not love the Lord Je<g ref="char:EOLhyphen"/>ſus? How? not love him that is his Saviour, that hath not onely redeemed him from Hell, but pur<g ref="char:EOLhyphen"/>chaſed Heaven for him? It is impoſſible. What, I hope, thou art not ſo ab<g ref="char:EOLhyphen"/>horrent from nature, that thou wilt court thy own Death or Ruine, nay, or wiſh it;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Ari<g ref="char:EOLhyphen"/>ſtot.)</note> but rather wiſheſt and loveſt thy ſalvation. Doſt thou ſo? and yet not
+<pb n="136" facs="tcp:55789:79"/>love him who is the Au<g ref="char:EOLhyphen"/>thour and finiſher of all ſalvation? How can this be? Every man loves light; and yet, if any man not love the Sun, the fountain of light? no man but loves ſalvation; and yet, if any man love not Jeſus, the fountain of ſalvation? What incongruities, nay, what impoſſibilities are theſe? Thou muſt either deny Jeſus to be a Savi<g ref="char:EOLhyphen"/>our, which would be little comfort to thee; or re<g ref="char:EOLhyphen"/>nounce all pretences to any love, or wiſhing well to thy ſelf, which were very
+<pb n="137" facs="tcp:55789:79"/>unnaturall; or elſe thou muſt love him. The love of thy Ieſus will conſtrain thee to it, nay, the very love of thy ſelf muſt. <hi>Et ipſam animam</hi> (ſayes Saint <hi>Bernard</hi>) I would hate my very ſoul,<note place="margin">Et ipſam animam odio habe<g ref="char:EOLhyphen"/>rom, ſi non diligeret meum Ie<g ref="char:EOLhyphen"/>ſum.</note> if it ſhould not love my Ieſus. Nay, <hi>Ari<g ref="char:EOLhyphen"/>stodemus</hi> an Heathen, hear<g ref="char:EOLhyphen"/>ing Philoſophers arguing the provident care of the gods, and love to man, cries out,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (apud Xenoph.)</note> Oh if I were aſſu<g ref="char:EOLhyphen"/>red of that, ſure I would not ſo ſlight and vilipend them as I do. And yet, If my man, any Chriſtian man, love not the Lord
+<pb n="138" facs="tcp:55789:80"/>Ieſus, ſuch a loving God to man, that, rather then man ſhould periſh, came down from Heaven to ſave him? it cannot be. Oh man, how canſt thou mind or think of any o<g ref="char:EOLhyphen"/>ther love, when ſuch a Ie<g ref="char:EOLhyphen"/>ſus is to be loved? or if thou doſt ſuch a morall impoſ<g ref="char:EOLhyphen"/>ſibilitie, how canſt thou denie, (I appeal to thy ſelf) my Apoſtles cenſures of <hi>Anathema, Maran-atha,</hi> to be very juſtly inflicted on thee? And yet, that is not all I have to ſay to thee; But,</p>
+            <p n="3">3. Take along with thee
+<pb n="139" facs="tcp:55789:80"/>but three Principles which I ſhall tell thee, and ſure they muſt convince thee, and evince thy love, and enforce thee to love the Lord Jeſus Chriſt, if thou reſolve to love any thing.</p>
+            <p n="1">1. None can chuſe, but every man muſt love that which is beautifull: this no Devill can deny.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plato)</note> For indeed (ſayes <hi>Plato</hi>) Love is not love, if it be not of that which is lovely. Love is nothing elſe <hi>niſi pulchritu<g ref="char:EOLhyphen"/>dinis deſiderium</hi> (ſayes <hi>Cuſa<g ref="char:EOLhyphen"/>nus</hi>) but breathing after the enjoyment of Beautie: and (ſayes <hi>Ficinus</hi>)<note n="*" place="margin">Amor tanquam ejus finem, fruitionem reſpicit pulchritu<g ref="char:EOLhyphen"/>dinis, <hi>(Marſ. Fi<g ref="char:EOLhyphen"/>cinus.)</hi>
+               </note> it acquieſ<g ref="char:EOLhyphen"/>ceth
+<pb n="140" facs="tcp:55789:81"/>in the enjoyment thereof as in its end. No man can properly love a<g ref="char:EOLhyphen"/>ny thing but what is beau<g ref="char:EOLhyphen"/>tifull; and what is ſo, none can chuſe but muſt love it: and therefore it is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Pro<g ref="char:EOLhyphen"/>clus.)</note> becauſe (ſayes <hi>Proclus</hi>) it is ſo lovely, that it draweth all eyes to ſtupour and ad<g ref="char:EOLhyphen"/>miration of it; as <hi>Lucian</hi> brings in young <hi>Paris</hi> ſo raviſhed at the ſight of fair <hi>Helena,</hi> that he thought he could not enjoy him<g ref="char:EOLhyphen"/>ſelf, though a Prince and Heire of famous <hi>Troy,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Lu<g ref="char:EOLhyphen"/>cianus.)</note> nor could live, unleſs he enjoyed that Beautie. And
+<pb n="141" facs="tcp:55789:81"/>
+               <hi>Pindarus</hi> ſayes of the love<g ref="char:EOLhyphen"/>ly <hi>Theoxenus,</hi> that he that gazing upon that auguſt and comely face of his,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is not ſurprized with amaze<g ref="char:EOLhyphen"/>ments, and inflamed with loves and deſires, he muſt have an heart of Adamant or Braſs.</p>
+            <p>Beautie is of that force, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that it tranſports all that look on it, out of themſelves, and rapts them with a divine furie (ſaith <hi>Proclus.</hi>) And there may be ſome reaſon for it (ſayes another Phi<g ref="char:EOLhyphen"/>loſopher)<note place="margin">Marſilius Ficiuus.</note> for indeed it is no other then <hi>divini luminis
+<pb n="142" facs="tcp:55789:82"/>imago,</hi> a very image of the divine light, <hi>imo vultus,</hi> of the divine countenance; and who can chooſe but muſt be raviſhed at any the leaſt glimpſe of the Deitie?</p>
+            <p>Why now, Chriſt is <hi>ipſa eſſentialis pulchritudo,</hi> Beau<g ref="char:EOLhyphen"/>tie it ſelf, the very eſſentiall <hi>Idea</hi> and pure ſampler of all beauties: he is that Beau<g ref="char:EOLhyphen"/>tie, that beautifies and be<g ref="char:EOLhyphen"/>ſpangles all the ſeverall ſpheres of the whole Uni<g ref="char:EOLhyphen"/>verſe, with all whatſoever gracefulneſſes or comeli<g ref="char:EOLhyphen"/>neſſes glitter in them; that adorneth the Angelicall
+<pb n="143" facs="tcp:55789:82"/>mind with its beautifull order of <hi>Ideas;</hi> the rationall ſoul with its golden chain of Reaſons; active Nature with its varietie of ſeeds; and the lowermoſt Orbe of all, paſſive Matter, with all its ſeverall forms, that you ſee the Lilie ſo cloa<g ref="char:EOLhyphen"/>thed,<note place="margin">Matth. 6.29.</note> that <hi>Solomon</hi> in all his royaltie was nothing com<g ref="char:EOLhyphen"/>parable to it. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is this abſolute Beautie that ſo cloathes that and and all other things with their amiable complexi<g ref="char:EOLhyphen"/>ons and comely ſhapes, (ſayes <hi>Cuſanus;</hi>) and they all are nothing elſe then ſo
+<pb n="144" facs="tcp:55789:83"/>many ſeverall adumbra<g ref="char:EOLhyphen"/>tions of this one abſolute Beautie, who is the com<g ref="char:EOLhyphen"/>prehenſion of them all; as Unitie is the complication of all Numbers, and Num<g ref="char:EOLhyphen"/>ber is nothing elſe then the explication of Unitie. In Number is all Proportion, in Proportion is all har<g ref="char:EOLhyphen"/>monicall Order; and there<g ref="char:EOLhyphen"/>fore all the Beautie that re<g ref="char:EOLhyphen"/>ſults from that order and proportion, muſt needs be wrapt up in Unitie in a more eminent manner. He is ſuch a Beautie, that the very Angels (ſayes S. <hi>Peter</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">1 Pet. 1.12.</note> are gree<g ref="char:EOLhyphen"/>dy
+<pb n="145" facs="tcp:55789:83"/>to peep into; nay, ſuch a Beautie, that God him<g ref="char:EOLhyphen"/>ſelf proclaims from his moſt excellent Glorie, that he is raviſhed at the ſight of him; <hi>This is my beloved Son in whom I am well plea<g ref="char:EOLhyphen"/>ſed.</hi> And yet what ſayes the Apoſtle here? If any man love not the Lord Jeſus Chriſt. How? any man not love him that is ſuch a Beautie, that God himſelf takes a wonderfull com<g ref="char:EOLhyphen"/>placencie in him? No man, but loves what is Beautifull: and yet, If any man not love him who is ſo Beautiful that he is Beau<g ref="char:EOLhyphen"/>tie
+<pb n="146" facs="tcp:55789:84"/>it ſelf? Thou muſt ei<g ref="char:EOLhyphen"/>ther deny him to be ſuch a Beautie, which Hell it ſelf dares not; or point out ſome other that may be compared, and ſtand in competition with him; or elſe thou muſt be enforced to love him.</p>
+            <p>But is there any other indeed? No, thou art groſly deluded, if thou fan<g ref="char:EOLhyphen"/>cie any thing to be a reall Beautie here below: it is merely (ſayes <hi>Boethius</hi>) <hi>im<g ref="char:EOLhyphen"/>becillitas oculorum,</hi> the weak<g ref="char:EOLhyphen"/>neſs of thy eyes that fools thee into that conceit: hadſt thou but one pierce<g ref="char:EOLhyphen"/>ing
+<pb n="147" facs="tcp:55789:84"/>eye, thou wouldſt ſee that that, which thou ta<g ref="char:EOLhyphen"/>keſt to be ſuch a peerleſs beautie, there were not <hi>vili<g ref="char:EOLhyphen"/>us ſterquiliniu<g ref="char:cmbAbbrStroke">̄</g>,</hi> a more loath<g ref="char:EOLhyphen"/>ſome dung-hil then it. Nay, <hi>Diana</hi> her ſelf (ſayes <hi>Luci<g ref="char:EOLhyphen"/>an</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that fa<g ref="char:EOLhyphen"/>mous Lady of Beautie, be<g ref="char:EOLhyphen"/>ing ſuddenly by <hi>Actaeon</hi> ſpied naked, as ſhe was waſhing her ſelf in a bath, for fear leſt he ſhould tell tales abroad of her cleanli<g ref="char:EOLhyphen"/>neſs,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſhe opens the mouths of his own hounds upon him to ſtop his. Alas, whatſoever Beautie thou meeteſt with here, it is no
+<pb n="148" facs="tcp:55789:85"/>other then an exile ſha<g ref="char:EOLhyphen"/>dow of Beautie. The Sun that is ſo reſplendent, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo ex<g ref="char:EOLhyphen"/>ceſſively beautifull,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. (apud Xe<g ref="char:EOLhyphen"/>noph.)</note> that if any man dare impudent<g ref="char:EOLhyphen"/>ly gaze upon it, he indan<g ref="char:EOLhyphen"/>gereth his eyes; yet is it but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſayes <hi>Plato</hi>) an image, nay, a ſhadow of the Deitie. And that intelligible,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that Divine Light which is the Arche-type and Fountain of all, (ſaith <hi>Philo</hi>) doth as far exceed in luſtre and bright<g ref="char:EOLhyphen"/>neſs that viſible Light, that ſo dazles our eyes, as that Light doth Darkneſs it
+<pb n="149" facs="tcp:55789:85"/>ſelf. <hi>Nirembergius</hi> thinks the Spouſe alludes to or im<g ref="char:EOLhyphen"/>plies ſome ſuch thing, by that her expreſſion, <hi>I ſought him whom my ſoul loveth, by night. Nox est reſpectu Do<g ref="char:EOLhyphen"/>mini ſplendor rerum venuſta<g ref="char:EOLhyphen"/>rum;</hi> all the beauties of Sunne, and Heavens, and Stars, and Angels, are but Night in reſpect of Chriſt; and were they all contra<g ref="char:EOLhyphen"/>cted into one Beautie, yet what were it compared with him? <hi>turpis &amp; obſcura eſſet,</hi> how obſcure and un<g ref="char:EOLhyphen"/>lovely would it appear? But, <hi>ſi tantum umbra lucet, quantum lux ipſa,</hi> if his very
+<pb n="150" facs="tcp:55789:86"/>ſhadowes ſeem ſo bright and glorious in thy eye, oh how bright and glori<g ref="char:EOLhyphen"/>ous muſt the Fountain it ſelf ſhine? And yet what ſayes the Apoſtle? If any man love not the Lord Jeſus Chriſt. Very ſtrange: But without doubt, the rea<g ref="char:EOLhyphen"/>ſon is, becauſe he is ſo im<g ref="char:EOLhyphen"/>merſt and ſunk into ſenſe, and,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> like the Hedge-hog, (ſayes <hi>Clemens Alexandri<g ref="char:EOLhyphen"/>nus</hi>) rowling altogether in fleſh, that he is incloſed with, that he cannot riſe up into the ſublime ſpecu<g ref="char:EOLhyphen"/>lation of ſpirituall Beau<g ref="char:EOLhyphen"/>ties, but entertains the ſame
+<pb n="151" facs="tcp:55789:86"/>(if not lower) imaginati<g ref="char:EOLhyphen"/>ons of them, as he doth of ſenſuall and carnall. Why do we dote ſo fondly up<g ref="char:EOLhyphen"/>on this world?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> (it was the ſaying of an heathen wo<g ref="char:EOLhyphen"/>man.) Why? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, be<g ref="char:EOLhyphen"/>cauſe it glitters with many gaudie gaities: but it would not ſo, had we but the leaſt inſight into that other above. Oh if once our eyes were bleſt (ſaies <hi>Plato</hi>) with the ſight of Beautie it ſelf;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and we did behold it in its own puritie and com<g ref="char:EOLhyphen"/>plexion, * as it is in it ſelf; not (as here) mixt and ſtained with fleſh and
+<pb n="152" facs="tcp:55789:87"/>bloud, and over-laid with <hi>ceruſſaes</hi> and paintings, and daubed with Apothecaries drugs, but in its own genu<g ref="char:EOLhyphen"/>ine hue and bright flame what then?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> we would not then think that gliſtering Gold, and ſparkling Dia<g ref="char:EOLhyphen"/>monds, or beauteous La<g ref="char:EOLhyphen"/>dies were it; and oh, how would the ſight thereof inflame all with love that behold it?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> (ſaith he moſt divinely.) And you may well think ſo (ſaith <hi>Her<g ref="char:EOLhyphen"/>mes</hi>) when as the very glimpſe thereof hath ſo rapt ſome out of them<g ref="char:EOLhyphen"/>ſelves,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that they never were
+<pb n="153" facs="tcp:55789:87"/>themſelves again, till they came to the full enjoyment thereof. Come (ſayes holy <hi>Monicha</hi>) <hi>Volemus in Coelos, fideles volemus in Coelos;</hi> come Chriſtians, let us get us to our wings, and fly up to our bleſſed Jeſus; <hi>ut quid hic agimus,</hi> what make we here below, when he is above? what joy can we take in his abſence? And ſo holy <hi>Ignatius,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> my Love is crucified; and there is not in me any ſuch fire as can take any pleaſure in preying upon theſe car<g ref="char:EOLhyphen"/>rions and ſordid pleaſures below, but there is a pure
+<pb n="154" facs="tcp:55789:88"/>water leaping up &amp; down in me, and whiſpering unto me, Up <hi>(Ignatius)</hi> get thee up to thy Jeſus.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> And oh now (ſaith he) how I long to be thrown into the jawes of thoſe Lions which I hear roaring for me! and if they will not diſpatch me the ſooner, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I will enforce them to it by violence, that ſo I may enjoy the ſight of my bleſſed Jeſus. And yet, If any man love not the Lord Jeſus Chriſt? what? not love him that is ſuch a Beautie, that the Saints with chearfullneſs run
+<pb n="155" facs="tcp:55789:88"/>through any kindes of deaths, ſo to have the ſight of him? No man but loves that which is lovely: and yet, if any man not love him, who is ſo lovely, that he is lovelineſs it ſelf? Thou muſt either deny him to be the Brightneſs of Glory,<note place="margin">Heb. 1.3.</note> and ſo give my Apoſtle the Lie; or thou muſt be enforced to love him.<note place="margin">O cor me<g ref="char:EOLhyphen"/>um, quo<g ref="char:EOLhyphen"/>modo non te evellis poſt tan<g ref="char:EOLhyphen"/>tum deco rem: <hi>(Nu<g ref="char:EOLhyphen"/>remberg.)</hi>
+               </note> O my heart (ſayes <hi>Nirembergius</hi>) why doeſt thou not pluck thy ſelf up by the very roote, after ſo great a Beau<g ref="char:EOLhyphen"/>tie? which is the firſt e<g ref="char:EOLhyphen"/>viction.</p>
+            <pb n="156" facs="tcp:55789:89"/>
+            <p n="2">2. No man can chooſe, but he muſt love that which is good. This can<g ref="char:EOLhyphen"/>not be denied: for there is that naturall cognation betwixt man and good<g ref="char:EOLhyphen"/>neſs (ſayes <hi>Plato</hi>) that there is not any thing elſe which man loves,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but what is good; inſomuch that, if their hands or feet be ſo gangren'd that they ſeem naught, they are wil<g ref="char:EOLhyphen"/>ling to have them cut off. That which is good, is not onely diffuſive of it ſelf,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but attractive of all others, it drawes all by its genuine ſplendour, nay, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it
+<pb n="157" facs="tcp:55789:89"/>drawes by a kindly vio<g ref="char:EOLhyphen"/>lence, as the Sun doth all eyes, to love and admira<g ref="char:EOLhyphen"/>tion (ſayes <hi>Proclus</hi>). For is Truth is the adequate object of the Intellect, ſo is Goodneſs of the Will; and as the Intellect can<g ref="char:EOLhyphen"/>not properly underſtand any thing but what is true, ſo neither can the Will love any thing but what is good, and what is good, it cannot but love: if at any time it doth unhappily embrace that which is evill,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Ariſt.)</note> it does not therefore embrace it becauſe it is evill, but be<g ref="char:EOLhyphen"/>cauſe
+<pb n="158" facs="tcp:55789:90"/>the Underſtanding being deluded does repre<g ref="char:EOLhyphen"/>ſent it under the notion of good; otherwiſe it is im<g ref="char:EOLhyphen"/>poſſible that Vice ſhould impoſe upon us,<note place="margin">Non niſi virtutis ſub um<g ref="char:EOLhyphen"/>bra deci<g ref="char:EOLhyphen"/>piunt vi<g ref="char:EOLhyphen"/>tia. <hi>(Se<g ref="char:EOLhyphen"/>neca)</hi>
+               </note> if it did not come in the habit of Vertue: if the Will decline good, it is becauſe that good ſeemeth evill, and the very declining, good. Good<g ref="char:EOLhyphen"/>neſs hath ſuch a ſweet force upon the Will, that the very ſhadow of it en<g ref="char:EOLhyphen"/>forceth the Will to court it, and to make love to it. And this (ſaith the <hi>Plato<g ref="char:EOLhyphen"/>niſt</hi>) is the very reaſon, why both Beautie ſo al<g ref="char:EOLhyphen"/>lures
+<pb n="159" facs="tcp:55789:90"/>the Eye, and Har<g ref="char:EOLhyphen"/>monie ſo raviſheth the Eare: Beautie, becauſe it is nothing elſe but a viſible Goodneſs, for there is all the difference between them;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Procl.)</note> Goodneſs is an in<g ref="char:EOLhyphen"/>ward Beautie, and Beautie is an outward Goodneſs, diſplaying to all eyes the lovelineſs that is ſhining within: and ſo, as Beautie is a viſible Goodneſs, ſo is Harmonie <hi>bonitas audibilis,</hi> an audible Goodneſs; which therefore is ſo highly de<g ref="char:EOLhyphen"/>lightfull, becauſe of the huge complacencie and pleaſure that the ſoul takes
+<pb n="160" facs="tcp:55789:91"/>in Goodneſs, whereſoever it meets with it, through what organs ſoever it is conveighed, then which (ſayes <hi>Marcus Antoninus</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there is no<g ref="char:EOLhyphen"/>thing does more harmo<g ref="char:EOLhyphen"/>nize with its nature, or is more ſuitable and agree<g ref="char:EOLhyphen"/>able. Why now, Chriſt, as he is eſſentiall Beautie, ſo he is eſſentiall Good<g ref="char:EOLhyphen"/>neſs: as the ſpotleſs glaſs of Beautie, ſo (ſayes the Wiſe man) he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Wiſd 7.26.</note> the Image of the Divine Goodneſs; or (as Saint <hi>Iohn</hi> characterizeth him) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the very <hi>Idea</hi>
+               <pb n="161" facs="tcp:55789:91"/>and Reaſon, or pure Sam<g ref="char:EOLhyphen"/>pler of all things, which are no other then contra<g ref="char:EOLhyphen"/>cted Images of that moſt abſolute one. And if ſo, then you may irrefragably conclude (ſayes <hi>Philo</hi>) that that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that originall Sampler, whence all cre<g ref="char:EOLhyphen"/>ated beauties and good<g ref="char:EOLhyphen"/>neſſes were ſo drawn out to the life, muſt needs be in himſelf infinitely more lovely and good. For no effect can poſſibly riſe up to the dignitie of its pri<g ref="char:EOLhyphen"/>mordiall cauſe:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> whatſo<g ref="char:EOLhyphen"/>ever vertue or excellencie
+<pb n="162" facs="tcp:55789:92"/>is ſhining in any ſubordi<g ref="char:EOLhyphen"/>nate cauſe,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Pro<g ref="char:EOLhyphen"/>clus.)</note> muſt needs be in the higheſt in a more eminent and exuberant manner preexiſtent; nay, and that ſo ſupereminently (ſayes <hi>Ficinus</hi>) that what belongeth to thoſe Effects, cannot properly be attribu<g ref="char:EOLhyphen"/>ted to their higher cauſe: as to ſay Heat is hot, Wiſe<g ref="char:EOLhyphen"/>dome is wiſe, Light is lightſome, Goodneſs is good; what defective, nay, and derogative predicati<g ref="char:EOLhyphen"/>ons are theſe? Joy (ſayes the <hi>Areopagite</hi>) whereſo<g ref="char:EOLhyphen"/>ever it glanceth, it affects with marvellous chearful<g ref="char:EOLhyphen"/>neſs;
+<pb n="163" facs="tcp:55789:92"/>yet we cannot pro<g ref="char:EOLhyphen"/>perly ſay that Joy it ſelf is affected with chearfulneſs, or is joyfull, but is ſo Joy as paſſeth all imagi<g ref="char:EOLhyphen"/>nation. If there be any goodneſs in the Creature, how infinitely more muſt there be in the Creatour, ſo as exceeds all apprehenſi<g ref="char:EOLhyphen"/>ons? Why calleſt thou me good? (ſayes Chriſt to him, that had a conceit that he was but a mere man.) Why calleſt thou me good (who lookeſt not upon me as God, as well as Man?) There is none good but God, Good? nay, God
+<pb n="164" facs="tcp:55789:93"/>is ſo good, that he is Good<g ref="char:EOLhyphen"/>neſs it ſelf (ſaith <hi>Hermes.</hi>) there is ſuch a reciprocall identitie of God and good,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that if thou ſayeſt that any other thing is good but God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thou art impi<g ref="char:EOLhyphen"/>ous, or that God is any other thing then good, thou art impious again. And yet what ſaith the A<g ref="char:EOLhyphen"/>poſtle, If any man love not the Lord Jeſus Chriſt. How? not love him that is the eternall Son of God, that is,<note place="margin">1 John 5.20.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> very God (ſayes Saint <hi>Iohn</hi>) bleſſed God for ever (ſaith my Apoſtle?) No man
+<pb n="165" facs="tcp:55789:93"/>but loveth whatſoever hath but the appearance or ſha<g ref="char:EOLhyphen"/>dow of Goodneſs, nay, and cannot but love it; and yet, if any man not love him, who is the very eſſence and ſubſtance of Good<g ref="char:EOLhyphen"/>neſs, Goodneſs it ſelf? it cannot be. Thou muſt either turn an <hi>Arrian,</hi> and blaſphemouſly denie his Divinitie, which not one<g ref="char:EOLhyphen"/>ly Angels have proclaim<g ref="char:EOLhyphen"/>ed, but the very Star at his birth, and the very ſtones, rocks and monuments at his death, and the very windes roared out upon the Sea, and Devils up<g ref="char:EOLhyphen"/>on
+<pb n="166" facs="tcp:55789:94"/>on the Land; or elſe thou muſt be enforced to love him. And were it not that ſad experience ſpeak<g ref="char:EOLhyphen"/>eth the ſame that my A<g ref="char:EOLhyphen"/>poſtle here, I ſhould think it an uncharitable cenſure and ſuppoſition, that there ſhould be any ſuch mon<g ref="char:EOLhyphen"/>ſtrous man, that loves not ſuch a lovely God. Man? Very ſtrange, that man, a rationall creature, whoſe very Reaſon will diſpenſe with the love of no<g ref="char:EOLhyphen"/>thing but what is good,<note place="margin">Nemo adeo alienus à lege natu<g ref="char:EOLhyphen"/>rae eſt, ut malum qua ma<g ref="char:EOLhyphen"/>lum eligat. (<hi>Senec.</hi>)</note> and will tell him, he offers violence to his nature, if he do; ſhould yet forſake
+<pb n="167" facs="tcp:55789:94"/>the very Principle and End of all good, and fall in love with mere <hi>ſuperficies</hi> and ſhadowes thereof, and with fooliſh <hi>Ixion</hi> embrace an emptie Cloud in ſtead of bright <hi>Iuno.</hi> For ſo the verie Pagans ſhall tell thee; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith <hi>Plo<g ref="char:EOLhyphen"/>tinus</hi>) all theſe things that thou ſo doteſt upon here, and all-to-begoddeſt, what are they but mortall, nay,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plot.)</note> and mortiferous, and ſenſe<g ref="char:EOLhyphen"/>leſſe loves of Idols, or liveleſſe Images? Nay, (ſaith <hi>Plato</hi>) whatſoever thou lookeſt upon here,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plato.)</note> is a mere Dream, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that
+<pb n="168" facs="tcp:55789:95"/>man is onely awake that ſeeth that he ſeeth nothing elſe but Dreames. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith <hi>Plutarch:</hi>) alas we are here onely, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as thoſe that are ſurprized with dead ſleeps;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Plutarch)</note> and our ſoul doth graſp and groap at that which is divine and good indeed, merely as in a dream. And yet if any man love not the Lord Jeſus Chriſt? not love him that is the very Ideall Fountain and reall Veritie of all that is worth the loving, and if his love pre<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore him on<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> veriſimilitudes and
+<pb n="169" facs="tcp:55789:95"/>ſhadowes, fleeting ſha<g ref="char:EOLhyphen"/>dowes, nay, which there<g ref="char:EOLhyphen"/>fore (ſayes <hi>Gregory Nazi<g ref="char:EOLhyphen"/>anzen</hi>) that divine Wiſe<g ref="char:EOLhyphen"/>dome out of an holy Po<g ref="char:EOLhyphen"/>licie made ſo fleeting and unſtable,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Greg. Naz.)</note> that we might not ſo fooliſhly fixe our love upon them? how ir<g ref="char:EOLhyphen"/>rationall is this? Caſt a piece of bread to a dog (ſayes <hi>Nirembergius</hi>) will he be ſo fooliſh as to leave the ſubſtance and fall up<g ref="char:EOLhyphen"/>on the ſhadow? For ſhame (ſayes Saint <hi>Chryſostome</hi>) let not us rationall crea<g ref="char:EOLhyphen"/>tures be ſo mad as to run after that which flyeth
+<pb n="170" facs="tcp:55789:96"/>away from us,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Chryſ.) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; (Greg. Naz.)</note> and to flie away from him, who remaineth one and the ſame bleſſed God for e<g ref="char:EOLhyphen"/>ver. For ſhame, ſhall we never learn to diſtinguiſh betwixt Light and Dark<g ref="char:EOLhyphen"/>neſs, Shadowes and Sub<g ref="char:EOLhyphen"/>ſtance, Moments and E<g ref="char:EOLhyphen"/>ternitie, Apparences and Realitie? Why, man, (ſaith <hi>Menander</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, if thou be onely a mortall crea<g ref="char:EOLhyphen"/>ture, and that ſoul of thine ſhall expire as that of the beaſts, then go and mind, and love onely ſuch as are like thy ſelf: But,
+<pb n="171" facs="tcp:55789:96"/>if thou be a divine crea<g ref="char:EOLhyphen"/>ture, and haſt ſuch a ſoul as is immortall, then why doſt thou not minde and love ſuch things as are ſuitable to thy noble na<g ref="char:EOLhyphen"/>ture? If Goodneſs be the naturall object of thy Will,<note place="margin">Cum aliqua non amen<g ref="char:EOLhyphen"/>tur niſi quia bona ſunt, pude<g ref="char:EOLhyphen"/>at iis in harendo non ama<g ref="char:EOLhyphen"/>re bonum Ipſam unde bona ſunt.</note> and the Will cannot love any thing elſe but what is good; for ſhame man, (ſayes Saint <hi>Auguſtine,</hi>) let not thy affection ſo adhere to created Good<g ref="char:EOLhyphen"/>neſſes, that thou neglect the Fountain, whence they were all derived. If theſe blurred lines ſo delight, why then ſhould not
+<pb n="172" facs="tcp:55789:97"/>He that is the pure Co<g ref="char:EOLhyphen"/>pie of all? If ſuch ſtreames, nay, dropps pleaſe thee,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Epi<g ref="char:EOLhyphen"/>cter.)</note> why ſhould not He infinitely more, who is the infinite Foun<g ref="char:EOLhyphen"/>tain of all? Thou muſt give a reaſon why not; or elſe reaſon it ſelf telleth thee, thou muſt love him. No man but naturally lo<g ref="char:EOLhyphen"/>veth what is good, either reall or apparent: <hi>Ieſus</hi> is Goodneſs it ſelf. That is the ſecond Eviction: one more, and I have done.</p>
+            <p n="3">3. None can chooſe, but muſt love his owne
+<pb n="173" facs="tcp:55789:97"/>perfection and happi<g ref="char:EOLhyphen"/>neſs. This (I preſume) thou wilt not denie; for it is an inviolable Law of Nature (ſayes <hi>Ariſto<g ref="char:EOLhyphen"/>tle:</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Hap<g ref="char:EOLhyphen"/>pineſs carrieth the votes of all, even of the Wizzard <hi>Balaam</hi> himſelf. As that which we naturally breath after is good and beau<g ref="char:EOLhyphen"/>tifull, ſo it is perfect and happie. As good, ſo it is the originall Being of all things: as beautifull, ſo it is the Grace and Come<g ref="char:EOLhyphen"/>lineſs of all: as perfect, ſo it is the ultimate Cen<g ref="char:EOLhyphen"/>ter and Acquieſcence of
+<pb n="174" facs="tcp:55789:98"/>all. As it is good and beautifull, ſo it moveth and draweth all to the love of it: as it is per<g ref="char:EOLhyphen"/>fect, ſo all things move and draw themſelves to<g ref="char:EOLhyphen"/>wards it. As good and beautifull, ſo it is of an ad<g ref="char:EOLhyphen"/>mirable attractive vertue: as perfect, ſo it is of a won<g ref="char:EOLhyphen"/>drous converſive and cir<g ref="char:EOLhyphen"/>culative Force;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Procl.)</note> it wheels about the ſeverall Spheres of the Creatures, and re<g ref="char:EOLhyphen"/>duceth them back to it ſelf.</p>
+            <p>No created ſubſtance but hath its revolution; <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and alwayes you ſhall ſee,
+<pb n="175" facs="tcp:55789:98"/>whither their return ten<g ref="char:EOLhyphen"/>deth, there is their Per<g ref="char:EOLhyphen"/>fection, becauſe their cen<g ref="char:EOLhyphen"/>ter where they can onely reſt and terminate their motion. which is the reaſon, why heavie Ele<g ref="char:EOLhyphen"/>ments deſcend, and light aſcend, nay, and that in a direct Geometricall line, which yet is not their pro<g ref="char:EOLhyphen"/>per motion; for in their Spheres their motion is circular, the Fire above moveth circularly, and the Water below, and the Aire betwixt both, moveth circularly, and ſo would the Earth, if it
+<pb n="176" facs="tcp:55789:99"/>mov'd, as <hi>Copernicus</hi> conceit<g ref="char:EOLhyphen"/>ed; and yet all theſe in their motions and tendencies to<g ref="char:EOLhyphen"/>wards their centers move in a ſtrait line, without the leaſt circulation or fetching any compaſſe a<g ref="char:EOLhyphen"/>bout; and why ſo, but that they may be the ſooner at their homes, where onely they can reſt, and their nature is per<g ref="char:EOLhyphen"/>fected?</p>
+            <p>Why now Chriſt, as he is the eſſentiall Pul<g ref="char:EOLhyphen"/>chritude, and eſſentiall Goodneſſe of all; ſo he is the eſſentiall Perfecti<g ref="char:EOLhyphen"/>on.<note place="margin">(Coloſſ. 2.9.)</note> In him <hi>dwelleth the
+<pb n="177" facs="tcp:55789:99"/>fulneſſe of the Godhead bo<g ref="char:EOLhyphen"/>dily,</hi> (ſayes my Apoſtle;) and that Divinitie of that God-Man (ſayes <hi>Doro<g ref="char:EOLhyphen"/>theus</hi> divinely) which the <hi>Jewes</hi> looked upon with ſuch diſdain, is ſuch a fulneſſe of Perfection, that it eſſentiateth all eſ<g ref="char:EOLhyphen"/>ſences, it naturalizeth all natures, it perfectionates all perfections:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Coloſſ. 1.15.)</note> it is perfect in things that are imper<g ref="char:EOLhyphen"/>fect, it is full in things that are emptie, in things that are full, it is over-full. The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, firſt-be<g ref="char:EOLhyphen"/>gotten of everie Creature (ſaith my Apoſtle again.)
+<pb n="178" facs="tcp:55789:100"/>Yet, leaſt that ye ſhould damnably miſtake him (as ſome Hereticks have done) you muſt under<g ref="char:EOLhyphen"/>ſtand, that he was not onely the firſt-begotten, but the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> onely-be<g ref="char:EOLhyphen"/>gotten (ſayes Saint <hi>Iohn</hi>) and ſo by conſequence the firſt and laſt;<note place="margin">Iohn 1.14.</note> and therefore ſomething more and above a Creature. What is the meaning then of that Riddle, The firſt-begotten of every Crea<g ref="char:EOLhyphen"/>ture? That is, as I con<g ref="char:EOLhyphen"/>ceive, It was he that was the originall Beautie and Perfection, whence all
+<pb n="179" facs="tcp:55789:100"/>the Creatures got and de<g ref="char:EOLhyphen"/>rived whatſoever excellen<g ref="char:EOLhyphen"/>cies and perfections ſhine in them; he the fair Cop<g ref="char:EOLhyphen"/>pie, whence all theſe lines were tranſcribed. So <hi>Cle<g ref="char:EOLhyphen"/>mens Alexandrinus</hi> ſeemeth to allude. God the Father (when he was upon the glorious deſigne of fra<g ref="char:EOLhyphen"/>ming the ſeverall orders of the Creatures) was pleaſed to caſt his eye up<g ref="char:EOLhyphen"/>on his glorious Son,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that eternall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Idea,</hi> and infinite ſampler of Per<g ref="char:EOLhyphen"/>fections; and according to that ſampler before his eye did he draw them all
+<pb n="180" facs="tcp:55789:101"/>out in their ſeverall line<g ref="char:EOLhyphen"/>aments and features and complexions. If you take this for a fancie, read that Text of the Prophet, and then tell me if a man would not think as if the Apoſtle did onely para<g ref="char:EOLhyphen"/>phraſe upon him:<note place="margin">(Pſal. 104.24.)</note> 
+               <hi>Oh how great are thy workes! in wiſedome hast thou made them all:</hi> (for ſo Chriſt is ſtiled, the wiſedome of the Fa<g ref="char:EOLhyphen"/>ther) And <hi>the earth is full,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>of thy Crea<g ref="char:EOLhyphen"/>tures.</hi>
+            </p>
+            <p>What can be more clear? Nay, you ſhall hear him<g ref="char:EOLhyphen"/>ſelf, (<hi>Coloſsians</hi> 1.16.)
+<pb n="181" facs="tcp:55789:101"/>with what elegancies does he expreſs how Chriſt was that abſolute lovely con<g ref="char:EOLhyphen"/>ception of the Father, and the complication of all created Perfections; and all had the reaſon and cauſe of their Being in that complacencie of the Fa<g ref="char:EOLhyphen"/>ther? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>In him were all things created, things in Heaven, and things in Earth, things viſible, and things inviſible, &amp;c.</hi> and all things were created by him, and for him, and he is before all: nay, and the <hi>Areopagite</hi> addeth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="182" facs="tcp:55789:102"/>He himſelf is All: All Perfections abſolutely,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and All com<g ref="char:EOLhyphen"/>prehenſively, and All ſin<g ref="char:EOLhyphen"/>gularly; what they are all ſeverally and diſtinctly, he is ſingularly and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> alonely: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, All are ſummed up in him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, All in him are per<g ref="char:EOLhyphen"/>fected: he is the Eſſence of things eſſentiall, the ſenſe of things ſentient, the life of things living,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;c.</hi> (Dionyſ. Ar.)</note> the intellect of things intel<g ref="char:EOLhyphen"/>lectuall, the perfection of things perfect, and then are all things the more
+<pb n="183" facs="tcp:55789:102"/>perfect, the nearer they come to him who is the Perfection of All;<note place="margin">Prov. 8.22. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, poſſeſſed me, wiſe<g ref="char:EOLhyphen"/>dome, (not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as the Sept.) the be<g ref="char:EOLhyphen"/>ginning of his pro<g ref="char:EOLhyphen"/>ceedings to his works.</note> as the Elements reach to the higher degree of Life, being aſſumed into the vegetative nature of Plants, thoſe Plants reach to the higher degree of Senſe and Ima<g ref="char:EOLhyphen"/>gination, being aſſumed into the nature of Brutes, and thoſe Brutes reach to Reaſon in Man, and Man to the higheſt degree of Grace and Glory in Chriſt, God-Man. And ſure there is ſomething more then is ordinarily imagined, in that expreſſion of my A<g ref="char:EOLhyphen"/>poſtle,
+<pb n="184" facs="tcp:55789:103"/>
+               <note place="margin">(Rom. 8.21.)</note> 
+               <hi>the very creation groans, longing to be delivered from their bondage of corruption,</hi> (from ſuch ſlaviſh ſubje<g ref="char:EOLhyphen"/>ction to ſuch a corrupt crea<g ref="char:EOLhyphen"/>ture) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>into the glorious libertie of the Sons of God.</hi> Never do they take themſelves to be at libertie indeed, till man (who is their glory, and in whom is terminated their perfecti<g ref="char:EOLhyphen"/>on) be advanced to that im<g ref="char:EOLhyphen"/>menſitie &amp; amplitude of li<g ref="char:EOLhyphen"/>berty, that he is become one with Chriſt the perfection of All. And yet what ſayes my Apoſtle here? If any man love not the Lord Je<g ref="char:EOLhyphen"/>ſus
+<pb n="185" facs="tcp:55789:103"/>Chriſt. How? not love him who is the perfection of man and all things? No creatures, but to the utmoſt of their power, reach out themſelves towards the participation of him, as far as their capacities will ex<g ref="char:EOLhyphen"/>tend; and yet, if any man, who is the perfection of them all, and who can one<g ref="char:EOLhyphen"/>ly reach to him, not love him, not breathe after him? No creature but <hi>ſpirat aliquid Dei, aſpirat Bonum,</hi>
+               <note place="margin">Omnis creatura colit &amp; amat quandam beatitudi<g ref="char:EOLhyphen"/>nis &amp; Dei ſtatuam, <hi>(Marſil. Ficinus.)</hi>
+               </note> breathes forth ſomething of God, and doth ſomewhat breath after God; it ſtrives by its reſtleſs motions and agita<g ref="char:EOLhyphen"/>tions,
+<pb n="186" facs="tcp:55789:104"/>that what it is, it may be well at leaſt, if not better; which, what is it elſe then <hi>affectare Bonum, ſplendorem Dei</hi> (ſayes <hi>Ficinus</hi>) to affect good, the brightneſs of the Deitie, by which the Uni<g ref="char:EOLhyphen"/>verſe is beautified? And yet, If any man not love the Lord Jeſus Chriſt? Man, the Lord of all, onely of all creatures degenerate? No man but wiſheth to be happy and perfect: and yet, If any man not love him who is happineſs it ſelf, and perfection it ſelf? What ſad contradictions are theſe, and how irrationall? What
+<pb n="187" facs="tcp:55789:104"/>thinkeſt thou now of it? Is it not reaſon that thou ſhouldſt love the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt? Art thou not enforced to it, when every thing in nature crieth out upon thee if thou do not? Thou muſt either ſhew ſome other object, that can perfectionate thy love, and ennoble it, or thou muſt renounce thy naturall rea<g ref="char:EOLhyphen"/>ſon, or elſe love him thou muſt: for that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſayes <hi>Epictetus</hi>) an in<g ref="char:EOLhyphen"/>violable law of reaſon,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that whatſoever appeareth the beſt, that be loved beſt: and then (ſayes another Hea<g ref="char:EOLhyphen"/>then)
+<pb n="188" facs="tcp:55789:105"/>thou muſt know that that only may be eſteemed beſt,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Marcus Imperat.)</note> which makes thy ſelf beſt, that is, juſt, wiſe, free, holy: and without all doubt (ſaith a third,) that is a truth that is evident to eve<g ref="char:EOLhyphen"/>ry man;<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Pro<g ref="char:EOLhyphen"/>clus.)</note> what? that what<g ref="char:EOLhyphen"/>ſoever it is that makes man happy, it muſt be ſome<g ref="char:EOLhyphen"/>thing that will aſſimilate him unto the Deitie, rather then what will make him un godlike; and that muſt needs make the man there<g ref="char:EOLhyphen"/>fore happy, becauſe by that aſſimilation he riſeth up into the higheſt perfection (ſayes another Heathen;) as
+<pb n="189" facs="tcp:55789:105"/>if a liveleſs picture ſhould be aſſumed and advanced into the ſame vigorous de<g ref="char:EOLhyphen"/>gree of livelineſs and love<g ref="char:EOLhyphen"/>lineſs,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plotinus)</note> with that majeſtie which it reſembleth.</p>
+            <p>All this is reaſon, is it not? Now point me out, or ſingle out any one object here below, if thou canſt, that will raiſe thee to that divine perfection I will tell thee what one of theſe Hea<g ref="char:EOLhyphen"/>thens ſaith in this caſe; If the rationall ſoul ſtoop to the love of theſe materiall treaſures, or brutiſh plea<g ref="char:EOLhyphen"/>ſures,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Plo<g ref="char:EOLhyphen"/>tin.)</note> it deſcendeth, and debaſeth it ſelf infinitely,
+<pb n="190" facs="tcp:55789:106"/>and its an unhappie fracture of her noble wings,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and precipitation of the ſoul. If thou doubteſt the mans judgement, yet what can be more infallible, when it is the very nature of love,<note place="margin">Transfor<g ref="char:EOLhyphen"/>mat in imagines iſtarum rerum quas amamus, <hi>(Raym. de Sab.)</hi>
+               </note> to transform the ſoul into the image of thoſe things which it loves? and there is a Text that implieth ſo much, They are become <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Hoſ. 9.10.</note> abominable like thoſe things which they have loved. <hi>Si terram amas, terra es;</hi> If (ſaith Saint <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>) thou loveſt Earth, thou art Earth; and ſo whatſoever elſe. And if that
+<pb n="191" facs="tcp:55789:106"/>be not an embaſing of the ſoul, to degrade it, and transform it into ſuch low elements of ſuch inferiour natures to it, what is? What is it then that will beatifie and elevate the ſoul into its primordial ſtate of perfecti<g ref="char:EOLhyphen"/>on? Why (ſaith he) its a wiſe receſs and retreat of the ſoul from all loves of,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Plotin.)</note> and affe<g ref="char:EOLhyphen"/>ctionate converſe with theſe things below, and an holy flight and retiring un<g ref="char:EOLhyphen"/>to him onely, who is onely.</p>
+            <p>Chriſtian, doſt thou hear this without a bluſh? Lets ſee now, what canſt thou
+<pb n="192" facs="tcp:55789:107"/>pretend to love that's worth the while, beſides Jeſus Chriſt? Whatſoever it is that is leſs then a God,<note place="margin">Quicquid minus Deo mente<g ref="char:cmbAbbrStroke">̄</g> Dei capacem non im<g ref="char:EOLhyphen"/>plet. <hi>(Bern.) Si</hi> aliud praeter De<g ref="char:EOLhyphen"/>um habeo, nec aliud plene poſſi<g ref="char:EOLhyphen"/>deo, nec Deum. Deus qui non defi<g ref="char:EOLhyphen"/>cit, ſolus mihi ſuffi<g ref="char:EOLhyphen"/>cil, <hi>(Eu<g ref="char:EOLhyphen"/>ſeb. Ni<g ref="char:EOLhyphen"/>remb.)</hi> Et hoc a<g ref="char:EOLhyphen"/>depto bea<g ref="char:EOLhyphen"/>ta, quo amiſſo mi<g ref="char:EOLhyphen"/>ſera fit anima, <hi>(S. Aug.)</hi>
+               </note> that cannot poſſibly fill up the vaſt chaſms and immenſe capacities of the ſoul; that's ſure: and if ſo, then take joy in it it cannot, that's as certain; no, nor can it be ſaid properly to enjoy it (ſaith S. <hi>Auguſt.</hi>) for that onely can it enjoy, which can terminate the reſtleſs motions of its deſires, and which being once attained, the ſoul is happy, &amp; which being loſt, it is miſerable and wretched. And if there
+<pb n="193" facs="tcp:55789:107"/>be any thing elſe then the Lord Jeſus, the loſs where<g ref="char:EOLhyphen"/>of will undo you, then go and love it with all thy heart, and ſoul, &amp; ſtrength, and ſpare not. But ſay in ſober ſadneſs, is there any ſuch indeed? There is lit<g ref="char:EOLhyphen"/>tle ſigne (ſaith <hi>Longinus</hi>) when it is the greateſt ar<g ref="char:EOLhyphen"/>gument of a great mind,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Lon<g ref="char:EOLhyphen"/>ginus.)</note> to look upon them with the eye of diſdain and con<g ref="char:EOLhyphen"/>tempt, as poore, ſmall no<g ref="char:EOLhyphen"/>things. and he inſtanceth in thoſe things, which the world adores as the great gods; Riches, Honours, Principalities. If there be
+<pb n="194" facs="tcp:55789:108"/>any thing that will ſatisfie the ſoul, it is more then <hi>Solomon</hi> could ſee, who had his eyes in his head, and could tell better then ano<g ref="char:EOLhyphen"/>ther, as having a full expe<g ref="char:EOLhyphen"/>riment of all. He cries out, <hi>Vanitie of vanities,</hi> (empti<g ref="char:EOLhyphen"/>neſs of emptineſſes) and <hi>all</hi> things are <hi>vanitie and vexa<g ref="char:EOLhyphen"/>tion of ſpirit.</hi>
+            </p>
+            <p>Vexation of ſpirit, that they muſt needs be, becauſe Firſt, they are emptineſſes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they can no more fill up the ſpirit or ſoul, then a drop of water can fill up the huge Ocean; no mor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quench the natural deſires of
+<pb n="195" facs="tcp:55789:108"/>the ſoul, then a little water can the thirſt of a man in<g ref="char:EOLhyphen"/>flamed with a feaver: nay, they are ſo far from that,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Iſid. P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>luſ.)</note> as that they inflame the more: they vex them, as the Tick vexeth the Oxe, or the <hi>In<g ref="char:EOLhyphen"/>dian</hi> Gnats do the Lions, which ſitting on their eye<g ref="char:EOLhyphen"/>browes, cauſe them to ſcratch themſelves blind.</p>
+            <p>Secondly, A vexation of ſpirit they are, becauſe they delude the man,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Arria<g ref="char:EOLhyphen"/>nus.)</note> which no man can endure, and put a cheat upon him, promiſing huge contentments and pleaſures, and when he hath run through them all, he
+<pb n="196" facs="tcp:55789:109"/>findes no more ſatisfaction in them, then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an hungrie ſtomach doth in the reaking fume of a ladle, or dreaming of a banquet. The ſpirit muſt needs be vexed, to be thus deluded and gull'd in its expectation.</p>
+            <p>And thirdly, A vexation of the ſoul they muſt needs be, becauſe they are of an heterogeneous and extrin<g ref="char:EOLhyphen"/>ſecall nature to this our ſpi<g ref="char:EOLhyphen"/>rituall.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> It is a groſs miſtake (ſaith <hi>Plotinus</hi>) if thou takeſt any of theſe material things to be the good which thou naturally ſeekeſt, or to be
+<pb n="197" facs="tcp:55789:109"/>thy good indeed, or to be loved by any but fools: and if (ſayes <hi>Marcus Antoni<g ref="char:EOLhyphen"/>nus</hi>) thou be drawn to any of their loves, thy motion is violent, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as thoſe Puppets that are ſet on motion by gins of iron or wire, that are of another and extrin<g ref="char:EOLhyphen"/>ſecall nature. That ſoul that is moved by any other principle then God, (who onely can move it natu<g ref="char:EOLhyphen"/>rally, becauſe he onely i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſoveraign Good and Truth wherein the Will and Underſtanding can ac<g ref="char:EOLhyphen"/>quieſce) is dragged by un<g ref="char:EOLhyphen"/>naturall
+<pb n="198" facs="tcp:55789:110"/>principles, and therefore by violent. No wonder then he calls it a vexation of ſpirit, that puts the ſoul to a moſt torturing violence, and turneth it out of its naturall biaſs. Nay, <hi>Epictetus</hi> will tell thee,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that, as none but baſe and ſer<g ref="char:EOLhyphen"/>vile ſpirits wil deſire things impoſſible; ſo, none but ſuch as dare proudly to fight with God, will love any thing that is of a di<g ref="char:EOLhyphen"/>ſtant and ſtrange nature from him. And yet, what ſaith the Apoſtle? If any man love not the Lord Jeſus Chriſt. How? not
+<pb n="199" facs="tcp:55789:110"/>him, ſuch an incompara<g ref="char:EOLhyphen"/>ble and comprehenſive per<g ref="char:EOLhyphen"/>fection, that all things elſe are but mere emptie Vani<g ref="char:EOLhyphen"/>ties and Nothingneſſes? Not love him, that is that abſolute neceſſarie One; that is both the Principle, and Middle, and End of all Pluralities, all the myri<g ref="char:EOLhyphen"/>ads of all created Beings and entities both in Heaven and Earth; that abſolute One, or Unitie,<note place="margin">Qui habet hoc unum, habet unum univerſa<g ref="char:EOLhyphen"/>le.</note> that is ſo one, that he is all; ſo that if any man ſeek reſt in any thing elſe, he cannot poſſi<g ref="char:EOLhyphen"/>bly find it, becauſe he ſeeks it not where it onely is,
+<pb n="200" facs="tcp:55789:111"/>he ſeeks it not in one, but in another, and therefore otherwiſe then he ſhould, and otherwhere then it is? What folly? what mad<g ref="char:EOLhyphen"/>neſs is this? For ſo the Prophet putteth them both together,<note place="margin">(Pſal. 75.5.)</note> 
+               <hi>I ſaid unto the fools, deal not ſo madly.</hi> Here is the folly and madneſs of men: they runne after Riches, and Pleaſures, and Honours, and run them<g ref="char:EOLhyphen"/>ſelves out of breath in their hot purſuit after them; and the more they runne after them,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (Plot.)</note> the more they runne from him who is the ve<g ref="char:EOLhyphen"/>ritie and realitie of them
+<pb n="201" facs="tcp:55789:111"/>all. Which is that frenzie, that himſelf inviteth the Angels to ſtand agaſt at, (Jer. 2.13.) <hi>Be astoniſhed ye Heavens; They have for<g ref="char:EOLhyphen"/>ſaken me the Fountain of li<g ref="char:EOLhyphen"/>ving Waters, and have digged unto themſelves Ciſterns that will hold no waters.</hi> As if he had ſaid, If there were any other Fountain beſides my ſelf, that could ſtay or ſatisfie their thirſt, I could diſpence with that their revolt from me; but now that there is no other ſuch but my ſelf, that they ſhould forſake me, and run to the Creatures, that are
+<pb n="202" facs="tcp:55789:112"/>mere emptineſſes, this is that offendeth and aſto<g ref="char:EOLhyphen"/>niſheth me. Ah wreched and mad man (ſayes <hi>Cu<g ref="char:EOLhyphen"/>ſanus</hi>) no man that ſeeketh any thing, but pretendeth to ſeek ſomething that is good; and he that ſeeketh good, and forſaketh God, what doth he but run away from that which he ſeek<g ref="char:EOLhyphen"/>eth? And if this be thy caſe, I cannot but wonder at thee, nay, I hope thou wilt now begin to wonder at thy ſelf: to be ſure, thou mayeſt not, canſt not any more wonder at my Apo<g ref="char:EOLhyphen"/>ſtle, for his <hi>Anathema, Ma<g ref="char:EOLhyphen"/>ran-atha;</hi>
+               <pb n="203" facs="tcp:55789:112"/>nor at me, if I diſmiſs thee with the ſay<g ref="char:EOLhyphen"/>ing of an honeſt Philoſo<g ref="char:EOLhyphen"/>pher,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; (Dioge<g ref="char:EOLhyphen"/>nes.)</note> Why pretendeſt thou to live, if thou think much to love him by whom thou liveſt?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
